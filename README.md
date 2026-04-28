@@ -1,8 +1,9 @@
- 🩺 AutoDoc – Clinical Note Summarizer
+# 🩺 AutoDoc – Clinical Note Summarizer
 
 AutoDoc is an AI-powered clinical note summarization system that converts unstructured medical notes into structured summaries using modern NLP techniques and transformer-based models.
 
- 🚀 Project Overview
+
+## 🚀 Project Overview
 
 AutoDoc helps in transforming lengthy clinical notes into a structured format:
 
@@ -13,7 +14,7 @@ AutoDoc helps in transforming lengthy clinical notes into a structured format:
 
 This improves readability, reduces manual effort, and assists healthcare professionals in faster decision-making.
 
- 📌 Features
+## 📌 Features
 
 * 🔍 Clinical note summarization using AI
 * 🧠 Powered by GroqCloud (LLaMA-based model)
@@ -24,6 +25,7 @@ This improves readability, reduces manual effort, and assists healthcare profess
 
 ## 🏗️ Project Structure
 
+```
 AutoDoc/
 │── streamlit_app.py        # Main Streamlit UI app
 │── data_creation.py        # Synthetic dataset generation
@@ -35,44 +37,54 @@ AutoDoc/
 │── Auto_Doc_Training.ipynb # Model training notebook
 ```
 
-
 ## 🧪 Sample Input
 
-
+```
 A 65-year-old male presents with chest pain radiating to the left arm...
+```
 
 ## ✅ Sample Output
 
+```
 🩺 Complaint: Chest pain  
 📜 History: Hypertension, Diabetes  
 💊 Medication: Metformin  
 🧭 Plan: Cardiac monitoring and aspirin
+```
+
 
 ## ⚙️ Installation
 
-Clone the repository
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/your-username/AutoDoc.git
 cd AutoDoc
- Install dependencies
+```
+
+### 2️⃣ Install dependencies
 
 ```bash
 pip install -r install.txt
 ```
-Run the Application
+
+
+
+## ▶️ Run the Application
 
 ```bash
 streamlit run streamlit_app.py
-🧠 Model Details
+```
+
+
+## 🧠 Model Details
 
 * **Model Used:** `openai/gpt-oss-20b` (via Groq API) 
 * **Frameworks:** Streamlit, Pandas, NumPy, PyTorch
 * **Approach:** Prompt-based structured summarization
 
----
 
-📊 Dataset
+## 📊 Dataset
 
 * Synthetic dataset generated using MIMIC-IV inspired clinical records 
 * Includes:
@@ -84,7 +96,7 @@ streamlit run streamlit_app.py
 * Structured JSON dataset for training and evaluation 
 
 
- 🧩 How It Works
+## 🧩 How It Works
 
 1. User inputs clinical note
 2. Prompt is generated for structured summarization
@@ -92,7 +104,8 @@ streamlit run streamlit_app.py
 4. Output is formatted into readable sections
 5. Results displayed via Streamlit UI
 
-🛠️ Dependencies
+
+## 🛠️ Dependencies
 
 Some key libraries used:
 
@@ -113,13 +126,17 @@ Some key libraries used:
 * 🌍 Multi-language support
 * 📈 Evaluation metrics (ROUGE, BLEU)
 
-📜 License
+
+## 📜 License
 
 This project is for academic and research purposes.
 
-⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 * MIMIC-IV Dataset (inspiration)
 * GroqCloud API
 * Open-source AI community
 
+
+
+Just tell 👍
