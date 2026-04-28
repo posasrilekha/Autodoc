@@ -13,7 +13,7 @@ st.set_page_config(
     layout="centered",
     initial_sidebar_state="expanded"
 )
-groq_client = Groq(api_key="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")
+groq_client = Groq(api_key="gsk_aboYD5BcSaqcRWMs2mbzWGdyb3FYBUjFAuojGOBlEPThSvDztKKo0")
 # ------------------------
 # 3️⃣ Sidebar Information
 # ------------------------
