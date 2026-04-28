@@ -1,0 +1,3027 @@
+[
+  {
+    "subject_id": 10004235,
+    "hadm_id": 24181354,
+    "note": "M patient aged 47 years admitted for Atrial fibrillation; Acute respiratory failure; Other anomalies of gallbladder, bile ducts, and liver. Underwent procedures: Arterial catheterization; Endoscopic insertion of stent (tube) into bile duct; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Insulin; Bag; Lisinopril. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Atrial fibrillation",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10009628,
+    "hadm_id": 25926192,
+    "note": "M patient aged 58 years admitted for Background diabetic retinopathy; Other and unspecified hyperlipidemia; Atrial fibrillation. Underwent procedures: Single internal mammary-coronary artery bypass; Extracorporeal circulation auxiliary to open heart surgery; (Aorto)coronary bypass of four or more coronary arteries. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Background diabetic retinopathy",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018081,
+    "hadm_id": 23983182,
+    "note": "M patient aged 79 years admitted for Personal history of tobacco use; Other postoperative infection; Fistula of intestine, excluding rectum and anus. Underwent procedures: Percutaneous abdominal drainage; Parenteral infusion of concentrated nutritional substances. Medications prescribed: Lidocaine Jelly 2% (Urojet); Heparin; Metoprolol Tartrate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of tobacco use",
+      "History": "Tobacco use",
+      "Medication": "Lidocaine jelly 2% (urojet)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10006053,
+    "hadm_id": 22942076,
+    "note": "M patient aged 52 years admitted for Esophageal varices in diseases classified elsewhere, with bleeding; Acute kidney failure with lesion of tubular necrosis; Alcoholic cirrhosis of liver. Underwent procedures: Venous catheterization, not elsewhere classified; Percutaneous abdominal drainage; Intra-abdominal venous shunt. Medications prescribed: Multivitamins; Bag; FoLIC Acid. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Esophageal varices in diseases classified elsewhere, with bleeding",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10031404,
+    "hadm_id": 21606243,
+    "note": "F patient aged 82 years admitted for Dehydration; Atelectasis; Acute kidney failure, unspecified. Underwent procedures: Drainage of Pericardial Cavity, Percutaneous Approach. Medications prescribed: amLODIPine; Bag; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Dehydration",
+      "History": "No significant medical history",
+      "Medication": "Amlodipine",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005817,
+    "hadm_id": 20626031,
+    "note": "M patient aged 66 years admitted for Examination of participant in clinical trial; Person on outside of bus injured in collision with pedestrian or animal in traffic accident; Personal history of antineoplastic chemotherapy. Underwent procedures: Extracorporeal circulation auxiliary to open heart surgery; Single internal mammary-coronary artery bypass; (Aorto)coronary bypass of two coronary arteries. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Examination of participant in clinical trial",
+      "History": "Antineoplastic chemotherapy",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019385,
+    "hadm_id": 20297618,
+    "note": "M patient aged 44 years admitted for Nicotine dependence, unspecified, uncomplicated; Hyperlipidemia, unspecified; Presence of coronary angioplasty implant and graft. Underwent procedures: Performance of Cardiac Output, Continuous; Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Nicotine dependence, unspecified, uncomplicated",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002495,
+    "hadm_id": 24982426,
+    "note": "M patient aged 81 years admitted for Gross hematuria; Acute kidney failure, unspecified; Long term (current) use of anticoagulants. Underwent procedures: Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach; Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Approach; Assistance with Cardiac Output using Balloon Pump, Continuous. Medications prescribed: Insulin; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Gross hematuria",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10038081,
+    "hadm_id": 20755971,
+    "note": "F patient aged 63 years admitted for Transfusion related acute lung injury (TRALI); Pulmonary congestion and hypostasis; Portal hypertension. Underwent procedures: Control of epistaxis by anterior nasal packing; Percutaneous abdominal drainage; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Insulin; Vial; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Transfusion related acute lung injury (trali)",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019917,
+    "hadm_id": 22585261,
+    "note": "M patient aged 44 years admitted for Acute posthemorrhagic anemia; Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction; Duodenitis, without mention of hemorrhage. Underwent procedures: Esophagogastroduodenoscopy [EGD] with closed biopsy; Colonoscopy. Medications prescribed: Vial; FoLIC Acid; Pantoprazole. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute posthemorrhagic anemia",
+      "History": "Known case of diabetes",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037861,
+    "hadm_id": 24256866,
+    "note": "M patient aged 77 years admitted for Coronary atherosclerosis of unspecified type of vessel, native or graft; Chronic kidney disease, Stage III (moderate); Old myocardial infarction. Underwent procedures: Right heart cardiac catheterization. Medications prescribed: Insulin; Vial; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10026354,
+    "hadm_id": 24547356,
+    "note": "M patient aged 34 years admitted for Thrombocytopenia, unspecified; Dislocation of jaw, initial encounter; Laceration of intercostal blood vessels, left side, initial encounter. Underwent procedures: Reposition Right Mandible with Internal Fixation Device, Open Approach; Reposition Left Maxilla with External Fixation Device, Percutaneous Approach; Reposition Left Mandible with External Fixation Device, Percutaneous Approach. Medications prescribed: Bag; Heparin; Magnesium Sulfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Thrombocytopenia, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 26352758,
+    "note": "M patient aged 53 years admitted for Type 2 diabetes mellitus with diabetic polyneuropathy; Nondisplaced intertrochanteric fracture of left femur, initial encounter for closed fracture; Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter. Underwent procedures: Insertion of Intramedullary Internal Fixation Device into Left Upper Femur, Percutaneous Approach; Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day. Medications prescribed: Aspirin; Lisinopril; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Type 2 diabetes mellitus with diabetic polyneuropathy",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020740,
+    "hadm_id": 23831430,
+    "note": "M patient aged 56 years admitted for Anemia, unspecified; Pneumonitis due to inhalation of food or vomitus; Retention of urine, unspecified. Underwent procedures: Other electroshock therapy; Insertion of endotracheal tube; Parenteral infusion of concentrated nutritional substances. Medications prescribed: Insulin; Neutra-Phos; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Anemia, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012552,
+    "hadm_id": 27089790,
+    "note": "M patient aged 78 years admitted for Coronary atherosclerosis of native coronary artery; Esophageal reflux; Unspecified essential hypertension. Underwent procedures: Single internal mammary-coronary artery bypass; (Aorto)coronary bypass of two coronary arteries; Extracorporeal circulation auxiliary to open heart surgery. Medications prescribed: Insulin; Neutra-Phos; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Coronary atherosclerosis of native coronary artery",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 28335091,
+    "note": "M patient aged 60 years admitted for Type 2 diabetes mellitus without complications; Non-ST elevation (NSTEMI) myocardial infarction; Chronic lymphocytic leukemia of B-cell type not having achieved remission. Underwent procedures: Dilation of Coronary Artery, Two Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach; Fluoroscopy of Multiple Coronary Arteries using Other Contrast. Medications prescribed: Insulin; Aspirin; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Type 2 diabetes mellitus without complications",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 27487226,
+    "note": "M patient aged 60 years admitted for Unspecified atrial flutter; Acute kidney failure, unspecified; Type 2 diabetes mellitus with diabetic polyneuropathy. Underwent procedures: Drainage of Pericardial Cavity with Drainage Device, Percutaneous Approach. Medications prescribed: Multivitamins; Neutra-Phos; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified atrial flutter",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 25864431,
+    "note": "F patient aged 46 years admitted for Nicotine dependence, cigarettes, uncomplicated; Personal history of other venous thrombosis and embolism; Hepatic failure, unspecified without coma. Underwent procedures: Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic; Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day; Introduction of Nutritional Substance into Lower GI, Via Natural or Artificial Opening. Medications prescribed: Tuberculin Protein; Vial; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Nicotine dependence, cigarettes, uncomplicated",
+      "History": "Other venous thrombosis and embolism",
+      "Medication": "Tuberculin protein",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10000032,
+    "hadm_id": 22595853,
+    "note": "F patient aged 52 years admitted for Chronic airway obstruction, not elsewhere classified; Cirrhosis of liver without mention of alcohol; Portal hypertension. Underwent procedures: Percutaneous abdominal drainage. Medications prescribed: Furosemide; Heparin; Ipratropium Bromide Neb. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic airway obstruction, not elsewhere classified",
+      "History": "Known case of diabetes",
+      "Medication": "Furosemide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020786,
+    "hadm_id": 23488445,
+    "note": "F patient aged 86 years admitted for Unspecified atrial fibrillation; Chronic obstructive pulmonary disease, unspecified; Severe sepsis with septic shock. Underwent procedures: none listed. Medications prescribed: Apixaban; Bag; Atorvastatin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified atrial fibrillation",
+      "History": "Known case of diabetes",
+      "Medication": "Apixaban",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10027445,
+    "hadm_id": 27488741,
+    "note": "F patient aged 48 years admitted for Cellulitis and abscess of trunk; Peripheral vascular disease, unspecified; Obesity, unspecified. Underwent procedures: none listed. Medications prescribed: Insulin; Tiotropium Bromide; Diazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Cellulitis and abscess of trunk",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10027445,
+    "hadm_id": 29163082,
+    "note": "F patient aged 48 years admitted for Mitral valve disorders; Depressive disorder, not elsewhere classified; Alkalosis. Underwent procedures: Right heart cardiac catheterization; Diagnostic ultrasound of heart; Combined right and left heart cardiac catheterization. Medications prescribed: Insulin; Lorazepam; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Mitral valve disorders",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015931,
+    "hadm_id": 22130791,
+    "note": "M patient aged 87 years admitted for Unspecified atrial fibrillation; Presence of xenogenic heart valve; Long term (current) use of anticoagulants. Underwent procedures: Respiratory Ventilation, 24-96 Consecutive Hours; Fluoroscopy of Inferior Mesenteric Artery using Other Contrast; Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Insulin; Tiotropium Bromide; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified atrial fibrillation",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10036156,
+    "hadm_id": 28019404,
+    "note": "F patient aged 88 years admitted for Other and unspecified hyperlipidemia; Other specified hypotension; Leukocytosis, unspecified. Underwent procedures: Transcatheter embolization for gastric or duodenal bleeding; Arteriography of other intra-abdominal arteries. Medications prescribed: Insulin; Bag; Glucagon. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other and unspecified hyperlipidemia",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021312,
+    "hadm_id": 25020332,
+    "note": "F patient aged 55 years admitted for Malignant neoplasm of left main bronchus; Personal history of pneumonia (recurrent); Fibromyalgia. Underwent procedures: Dilation of Left Main Bronchus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic; Destruction of Right Main Bronchus, Via Natural or Artificial Opening Endoscopic; Inspection of Tracheobronchial Tree, Via Natural or Artificial Opening Endoscopic. Medications prescribed: ALPRAZolam; Albuterol 0.083% Neb Soln; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Malignant neoplasm of left main bronchus",
+      "History": "Pneumonia (recurrent)",
+      "Medication": "Alprazolam",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021312,
+    "hadm_id": 28829452,
+    "note": "F patient aged 55 years admitted for Other chronic pain; Tachycardia, unspecified; Heartburn. Underwent procedures: Extirpation of Matter from Left Main Bronchus, Via Natural or Artificial Opening Endoscopic; Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic; Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Vial; ALPRAZolam; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other chronic pain",
+      "History": "Known case of hypertension",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 23559586,
+    "note": "F patient aged 72 years admitted for Obesity, unspecified; Acute kidney failure, unspecified; Thrombocytopenia, unspecified. Underwent procedures: Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening; Fluoroscopy of Left Kidney, Ureter and Bladder using Other Contrast; Respiratory Ventilation, 24-96 Consecutive Hours. Medications prescribed: Multivitamins; Bag; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Obesity, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 20214994,
+    "note": "F patient aged 72 years admitted for Other postoperative infection; Atrial fibrillation; Closed fracture of phalanx or phalanges of hand, unspecified. Underwent procedures: Attachment of pedicle or flap graft to other sites; Other lysis of peritoneal adhesions; Nonexcisional debridement of wound, infection or burn. Medications prescribed: Neutra-Phos; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other postoperative infection",
+      "History": "Known case of diabetes",
+      "Medication": "Neutra-phos",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 24244087,
+    "note": "M patient aged 53 years admitted for Long-term (current) use of aspirin; Acute kidney failure, unspecified; Congestive heart failure, unspecified. Underwent procedures: none listed. Medications prescribed: Multivitamins; Aspirin; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long-term (current) use of aspirin",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10038992,
+    "hadm_id": 22797747,
+    "note": "M patient aged 70 years admitted for Unspecified disease of pericardium; Chronic airway obstruction, not elsewhere classified; Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS). Underwent procedures: none listed. Medications prescribed: vancomycin; Aspirin; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified disease of pericardium",
+      "History": "No significant medical history",
+      "Medication": "Vancomycin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037975,
+    "hadm_id": 27617929,
+    "note": "M patient aged 60 years admitted for Encounter for palliative care; Person on outside of heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident; Infection with microorganisms resistant to penicillins. Underwent procedures: Enteral infusion of concentrated nutritional substances; Arterial catheterization; Continuous invasive mechanical ventilation for 96 consecutive hours or more. Medications prescribed: Vial; CefePIME; Polyethylene Glycol. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Encounter for palliative care",
+      "History": "Known case of diabetes",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035185,
+    "hadm_id": 22580999,
+    "note": "M patient aged 70 years admitted for Other and unspecified angina pectoris; Examination of participant in clinical trial; Person on outside of bus injured in collision with pedestrian or animal in traffic accident. Underwent procedures: Extracorporeal circulation auxiliary to open heart surgery; (Aorto)coronary bypass of three coronary arteries; Single internal mammary-coronary artery bypass. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other and unspecified angina pectoris",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 28301173,
+    "note": "F patient aged 48 years admitted for Suicidal ideation; Unspecified viral hepatitis C without hepatic coma; Personal history of traumatic brain injury. Underwent procedures: none listed. Medications prescribed: OLANZapine; Amitriptyline; QUEtiapine Fumarate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Suicidal ideation",
+      "History": "Traumatic brain injury",
+      "Medication": "Olanzapine",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 22733922,
+    "note": "F patient aged 48 years admitted for Human immunodeficiency virus [HIV] disease; Unspecified viral hepatitis C without hepatic coma; Alcohol use, unspecified with unspecified alcohol-induced disorder. Underwent procedures: none listed. Medications prescribed: Multivitamins; FoLIC Acid; Sulfameth/Trimethoprim DS. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Human immunodeficiency virus [hiv] disease",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007795,
+    "hadm_id": 28477357,
+    "note": "F patient aged 53 years admitted for Acute edema of lung, unspecified; Long-term (current) use of insulin; Other and unspecified coagulation defects. Underwent procedures: Diagnostic ultrasound of digestive system; Other operations on intestines; Percutaneous abdominal drainage. Medications prescribed: Insulin; Multivitamins; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute edema of lung, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007795,
+    "hadm_id": 25135483,
+    "note": "F patient aged 53 years admitted for Other and unspecified mycoses; Anemia, unspecified; Pure hypercholesterolemia. Underwent procedures: Drainage of pancreatic cyst by catheter; Central venous catheter placement with guidance; Enteral infusion of concentrated nutritional substances. Medications prescribed: Multivitamins; Vial; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other and unspecified mycoses",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004733,
+    "hadm_id": 27411876,
+    "note": "M patient aged 51 years admitted for Acute kidney failure, unspecified; Dysphagia, oropharyngeal phase; Hyperosmolality and/or hypernatremia. Underwent procedures: Fiber-optic bronchoscopy; Colonoscopy; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Amlodipine; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Amlodipine",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021118,
+    "hadm_id": 24490144,
+    "note": "M patient aged 62 years admitted for Essential (primary) hypertension; Personal history of nicotine dependence; Unspecified asthma, uncomplicated. Underwent procedures: Performance of Cardiac Output, Continuous; Excision of Right Saphenous Vein, Percutaneous Endoscopic Approach; Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Essential (primary) hypertension",
+      "History": "Nicotine dependence",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10006580,
+    "hadm_id": 24159665,
+    "note": "F patient aged 63 years admitted for Gout, unspecified; Arthropathy, unspecified, site unspecified; Long-term (current) use of insulin. Underwent procedures: Other operations on carotid body, carotid sinus and other vascular bodies; Implantation or replacement of carotid sinus stimulation device, total system. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Gout, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023771,
+    "hadm_id": 20044587,
+    "note": "M patient aged 70 years admitted for Hemorrhage complicating a procedure; Personal history of antineoplastic chemotherapy; Unspecified essential hypertension. Underwent procedures: Extracorporeal circulation auxiliary to open heart surgery; (Aorto)coronary bypass of three coronary arteries; Single internal mammary-coronary artery bypass. Medications prescribed: Insulin; Amlodipine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hemorrhage complicating a procedure",
+      "History": "Antineoplastic chemotherapy",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005348,
+    "hadm_id": 29496232,
+    "note": "M patient aged 76 years admitted for Disorders of magnesium metabolism; Retention of urine, unspecified; Orthostatic hypotension. Underwent procedures: Thoracoscopic lobectomy of lung; Regional lymph node excision. Medications prescribed: Neutra-Phos; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Disorders of magnesium metabolism",
+      "History": "Known case of diabetes",
+      "Medication": "Neutra-phos",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019172,
+    "hadm_id": 24997044,
+    "note": "F patient aged 63 years admitted for Atrial fibrillation; Paroxysmal ventricular tachycardia; Tobacco use disorder. Underwent procedures: Extracorporeal circulation auxiliary to open heart surgery; Open and other replacement of aortic valve. Medications prescribed: Insulin; Amlodipine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Atrial fibrillation",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019172,
+    "hadm_id": 21540783,
+    "note": "F patient aged 63 years admitted for Surgical or other procedure not carried out because of contraindication; Passenger in heavy transport vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident; Tobacco use disorder. Underwent procedures: Excision of dental lesion of jaw; Extraction of other tooth. Medications prescribed: Metoprolol Tartrate; Ciprofloxacin HCl; Docusate Sodium. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Surgical or other procedure not carried out because of contraindication",
+      "History": "No significant medical history",
+      "Medication": "Metoprolol tartrate",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021487,
+    "hadm_id": 20429160,
+    "note": "M patient aged 43 years admitted for Acute and subacute necrosis of liver; Paralytic ileus; Peritoneal adhesions (postoperative) (postinfection). Underwent procedures: Central venous catheter placement with guidance; Other lysis of peritoneal adhesions; Open and other right hemicolectomy. Medications prescribed: Heparin; Levofloxacin; Lactated Ringers. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute and subacute necrosis of liver",
+      "History": "Known case of hypertension",
+      "Medication": "Heparin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10013049,
+    "hadm_id": 22675517,
+    "note": "M patient aged 52 years admitted for Family history of ischemic heart disease; Person boarding or alighting a pedal cycle injured in collision with fixed or stationary object; Unspecified gastritis and gastroduodenitis, without mention of hemorrhage. Underwent procedures: Repair of atrial septal defect with tissue graft; Excision or destruction of other lesion or tissue of heart, open approach; Extracorporeal circulation auxiliary to open heart surgery. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Family history of ischemic heart disease",
+      "History": "Ischemic heart disease",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 20385771,
+    "note": "M patient aged 63 years admitted for Diarrhea; Personal history of tobacco use; Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use. Underwent procedures: Allogeneic hematopoietic stem cell transpant without purging; Central venous catheter placement with guidance; Transplant from live related donor. Medications prescribed: Multivitamins; Neutra-Phos; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Diarrhea",
+      "History": "Tobacco use",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 24912093,
+    "note": "M patient aged 63 years admitted for Other nonspecific abnormal serum enzyme levels; Examination of participant in clinical trial; Person on outside of bus injured in collision with pedestrian or animal in traffic accident. Underwent procedures: Central venous catheter placement with guidance; Injection or infusion of cancer chemotherapeutic substance. Medications prescribed: Vial; OxycoDONE (Immediate Release) ; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other nonspecific abnormal serum enzyme levels",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 26226543,
+    "note": "F patient aged 65 years admitted for Acute kidney failure, unspecified; Pure hypercholesterolemia, unspecified; Unspecified abdominal pain. Underwent procedures: none listed. Medications prescribed: ruxolitinib; Multivitamins; Neutra-Phos. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Ruxolitinib",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 28003918,
+    "note": "F patient aged 65 years admitted for Personal history of malignant neoplasm of breast; Person boarding or alighting a pedal cycle injured in collision with pedestrian or animal; Depressive disorder, not elsewhere classified. Underwent procedures: Laparoscopic removal of both ovaries and tubes at same operative episode; Other cystoscopy; Laparoscopic total abdominal hysterectomy. Medications prescribed: Insulin; Albuterol 0.083% Neb Soln; Atenolol. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of malignant neoplasm of breast",
+      "History": "Malignant neoplasm of breast",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10009035,
+    "hadm_id": 28324362,
+    "note": "M patient aged 28 years admitted for Mitral valve disorders; Other postprocedural status; Iatrogenic pneumothorax. Underwent procedures: Open heart valvuloplasty of mitral valve without replacement; Extracorporeal circulation auxiliary to open heart surgery. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Mitral valve disorders",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 25933959,
+    "note": "F patient aged 64 years admitted for Heart failure, unspecified; Unspecified atrial fibrillation; Old myocardial infarction. Underwent procedures: Excision of Left Foot Tendon, Open Approach; Excision of Left Saphenous Vein, Open Approach; Bypass Left Femoral Artery to Popliteal Artery with Autologous Venous Tissue, Open Approach. Medications prescribed: Aspirin; FoLIC Acid; OxyCODONE (Immediate Release). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Heart failure, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014729,
+    "hadm_id": 23300884,
+    "note": "F patient aged 21 years admitted for Disruption of external operation (surgical) wound; Acute post-thoracotomy pain; Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation. Underwent procedures: Central venous catheter placement with guidance; Reopening of recent thoracotomy site; Insertion of intercostal catheter for drainage. Medications prescribed: Insulin; Bag; Lorazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Disruption of external operation (surgical) wound",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10026255,
+    "hadm_id": 20437651,
+    "note": "M patient aged 66 years admitted for Pneumonia, organism unspecified; Tobacco use disorder; Other and unspecified hyperlipidemia. Underwent procedures: Other incision of pleura. Medications prescribed: Tiotropium Bromide; Aspirin; Albuterol 0.083% Neb Soln. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Pneumonia, organism unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Tiotropium bromide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10026255,
+    "hadm_id": 22059910,
+    "note": "M patient aged 66 years admitted for Delirium due to conditions classified elsewhere; Late effect of certain complications of trauma; Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta. Underwent procedures: none listed. Medications prescribed: Tiotropium Bromide; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Delirium due to conditions classified elsewhere",
+      "History": "Known case of diabetes",
+      "Medication": "Tiotropium bromide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007058,
+    "hadm_id": 22954658,
+    "note": "M patient aged 48 years admitted for Encounter for immunization; Non-ST elevation (NSTEMI) myocardial infarction; Gastro-esophageal reflux disease without esophagitis. Underwent procedures: Extirpation of Matter from Coronary Artery, One Artery, Percutaneous Approach; Fluoroscopy of Multiple Coronary Arteries using Other Contrast. Medications prescribed: Vial; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Encounter for immunization",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018845,
+    "hadm_id": 21101111,
+    "note": "M patient aged 91 years admitted for Chronic kidney disease, Stage V; Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness; Dysarthria. Underwent procedures: Other craniotomy. Medications prescribed: CefazoLIN; Heparin; Simvastatin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic kidney disease, stage v",
+      "History": "Known case of diabetes",
+      "Medication": "Cefazolin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020640,
+    "hadm_id": 27984218,
+    "note": "F patient aged 91 years admitted for Metabolic encephalopathy; Alzheimer's disease; Dementia in conditions classified elsewhere with behavioral disturbance. Underwent procedures: none listed. Medications prescribed: Insulin; Neutra-Phos; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Metabolic encephalopathy",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018081,
+    "hadm_id": 25973915,
+    "note": "M patient aged 79 years admitted for Hyperosmolality and/or hypernatremia; Dysarthria; Mitral valve disorders. Underwent procedures: Parenteral infusion of concentrated nutritional substances. Medications prescribed: Insulin; Vial; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hyperosmolality and/or hypernatremia",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018081,
+    "hadm_id": 21027282,
+    "note": "M patient aged 79 years admitted for Acute kidney failure with lesion of tubular necrosis; Pure hypercholesterolemia; Other and unspecified hyperlipidemia. Underwent procedures: Enteral infusion of concentrated nutritional substances; Ileostomy, not otherwise specified; Repair of other hernia of anterior abdominal wall. Medications prescribed: Insulin; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure with lesion of tubular necrosis",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021666,
+    "hadm_id": 22756440,
+    "note": "M patient aged 87 years admitted for Do not resuscitate status; Congestive heart failure, unspecified; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified. Underwent procedures: Insertion of (naso-)intestinal tube; Enteral infusion of concentrated nutritional substances. Medications prescribed: Insulin; Multivitamins; Neutra-Phos. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Do not resuscitate status",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015272,
+    "hadm_id": 27993466,
+    "note": "F patient aged 78 years admitted for Acute embolism and thrombosis of left femoral vein; History of falling; Acute embolism and thrombosis of left popliteal vein. Underwent procedures: none listed. Medications prescribed: Aspirin; Bag; Warfarin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute embolism and thrombosis of left femoral vein",
+      "History": "Falling",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10016810,
+    "hadm_id": 20973395,
+    "note": "F patient aged 66 years admitted for Hypotension, unspecified; Long-term (current) use of aspirin; Tobacco use disorder. Underwent procedures: Open and other cecectomy; Other appendectomy. Medications prescribed: Insulin; Multivitamins; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypotension, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021938,
+    "hadm_id": 23112364,
+    "note": "M patient aged 65 years admitted for End stage renal disease; Hyperpotassemia; Other and unspecified hyperlipidemia. Underwent procedures: Hemodialysis. Medications prescribed: Nephrocaps; Ondansetron; NIFEdipine CR. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "End stage renal disease",
+      "History": "No significant medical history",
+      "Medication": "Nephrocaps",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021938,
+    "hadm_id": 27154822,
+    "note": "M patient aged 65 years admitted for Abdominal pain, unspecified site; Other and unspecified hyperlipidemia; Chronic systolic heart failure. Underwent procedures: Hemodialysis. Medications prescribed: Vial; Nephrocaps; Ondansetron. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Abdominal pain, unspecified site",
+      "History": "Known case of hypertension",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10001725,
+    "hadm_id": 25563031,
+    "note": "F patient aged 46 years admitted for Asthma, unspecified type, unspecified; Myalgia and myositis, unspecified; Prolapse of vaginal vault after hysterectomy. Underwent procedures: Insertion of biological graft; Repair of rectocele with graft or prosthesis; Insertion or replacement of other neurostimulator pulse generator. Medications prescribed: Zolpidem Tartrate; Bag; Lorazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Asthma, unspecified type, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Zolpidem tartrate",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10001217,
+    "hadm_id": 24597018,
+    "note": "F patient aged 55 years admitted for Family history of other specified malignant neoplasm; Family history of malignant neoplasm of trachea, bronchus, and lung; Pedal cycle passenger injured in collision with other nonmotor vehicle in nontraffic accident. Underwent procedures: Spinal tap; Other incision of brain; Central venous catheter placement with guidance. Medications prescribed: OxycoDONE (Immediate Release) ; Heparin; Meropenem. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Family history of other specified malignant neoplasm",
+      "History": "Other specified malignant neoplasm",
+      "Medication": "Oxycodone (immediate release)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023239,
+    "hadm_id": 29295881,
+    "note": "F patient aged 29 years admitted for Long-term (current) use of insulin; Mechanical complication due to insulin pump; Leukocytosis, unspecified. Underwent procedures: none listed. Medications prescribed: Insulin Pump (Self Administering Medication); Insulin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long-term (current) use of insulin",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin pump (self administering medication)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023239,
+    "hadm_id": 21759936,
+    "note": "F patient aged 29 years admitted for Hypothyroidism, unspecified; Anxiety disorder, unspecified; Other mechanical complication of insulin pump, initial encounter. Underwent procedures: Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic; Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic; Excision of Thorax Lymphatic, Percutaneous Endoscopic Approach, Diagnostic. Medications prescribed: Insulin Pump (Self Administering Medication); Bag; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypothyroidism, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin pump (self administering medication)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020944,
+    "hadm_id": 29974575,
+    "note": "M patient aged 72 years admitted for Alcoholic polyneuropathy; Urethral stricture, unspecified; Other convulsions. Underwent procedures: Other bronchoscopy; Insertion of endotracheal tube; Arterial catheterization. Medications prescribed: Insulin; Multivitamins; Tiotropium Bromide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Alcoholic polyneuropathy",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10027602,
+    "hadm_id": 28166872,
+    "note": "F patient aged 71 years admitted for Urinary tract infection, site not specified; Acute respiratory failure; Asthma, unspecified type, unspecified. Underwent procedures: Endovascular (total) embolization or occlusion of head and neck vessels; Insertion or replacement of external ventricular drain [EVD]; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Fentanyl Citrate; Lorazepam; Midazolam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Urinary tract infection, site not specified",
+      "History": "Known case of diabetes",
+      "Medication": "Fentanyl citrate",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10032725,
+    "hadm_id": 25177949,
+    "note": "F patient aged 38 years admitted for Secondary malignant neoplasm of adrenal gland; Unspecified essential hypertension; Antineoplastic chemotherapy induced anemia. Underwent procedures: Internal fixation of bone without fracture reduction, femur; Biopsy of bone, femur; Injection or infusion of cancer chemotherapeutic substance. Medications prescribed: Insulin; Multivitamins; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Secondary malignant neoplasm of adrenal gland",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10032725,
+    "hadm_id": 20611640,
+    "note": "F patient aged 38 years admitted for Cerebral edema; Personal history of malignant neoplasm of other parts of uterus; Secondary malignant neoplasm of lung. Underwent procedures: Insertion of endotracheal tube; Venous catheterization, not elsewhere classified; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Insulin; Glucagon; Lidocaine 5% Patch. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Cerebral edema",
+      "History": "Malignant neoplasm of other parts of uterus",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005348,
+    "hadm_id": 25239799,
+    "note": "M patient aged 76 years admitted for Depressive disorder, not elsewhere classified; Aortic valve disorders; Unspecified essential hypertension. Underwent procedures: Venous catheterization, not elsewhere classified; Left heart cardiac catheterization; Extracorporeal circulation auxiliary to open heart surgery. Medications prescribed: Insulin; Multivitamins; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Depressive disorder, not elsewhere classified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037861,
+    "hadm_id": 24540843,
+    "note": "M patient aged 77 years admitted for Dependence on respirator [ventilator] status; Hyperlipidemia, unspecified; Type 2 diabetes mellitus with diabetic chronic kidney disease. Underwent procedures: Introduction of Nutritional Substance into Upper GI, Via Natural or Artificial Opening; Respiratory Ventilation, Greater than 96 Consecutive Hours; Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: OxyCODONE--Acetaminophen (5mg-325mg); Bag; Atorvastatin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Dependence on respirator [ventilator] status",
+      "History": "No significant medical history",
+      "Medication": "Oxycodone--acetaminophen (5mg-325mg)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10010471,
+    "hadm_id": 29842315,
+    "note": "F patient aged 89 years admitted for Personal history of nicotine dependence; Non-ST elevation (NSTEMI) myocardial infarction; Dependence on supplemental oxygen. Underwent procedures: Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach; Fluoroscopy of Multiple Coronary Arteries using Other Contrast. Medications prescribed: Bag; Aspirin; HYDROmorphone (Dilaudid). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of nicotine dependence",
+      "History": "Nicotine dependence",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 27167814,
+    "note": "M patient aged 57 years admitted for Retention of urine, unspecified; Acute posthemorrhagic anemia; Other foreign object in respiratory tract, part unspecified in causing asphyxiation, initial encounter. Underwent procedures: Drainage of Peritoneal Cavity, Percutaneous Approach; Control Bleeding in Abdominal Wall, Open Approach; Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening. Medications prescribed: Bag; Glutamine; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Retention of urine, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 26134779,
+    "note": "M patient aged 57 years admitted for Nicotine dependence, cigarettes, uncomplicated; Portal hypertension; Spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region. Underwent procedures: Drainage of Peritoneal Cavity, Percutaneous Approach. Medications prescribed: Bag; Sulfameth/Trimethoprim SS; Furosemide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Nicotine dependence, cigarettes, uncomplicated",
+      "History": "No significant medical history",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 26158160,
+    "note": "M patient aged 57 years admitted for Alcohol abuse, in remission; Chronic hepatitis C without mention of hepatic coma; Portal hypertension. Underwent procedures: Other open umbilical herniorrhaphy. Medications prescribed: Vial; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Alcohol abuse, in remission",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10024043,
+    "hadm_id": 24717014,
+    "note": "M patient aged 67 years admitted for Personal history of alcoholism; Person boarding or alighting a pedal cycle injured in collision with other pedal cycle; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified. Underwent procedures: none listed. Medications prescribed: Insulin; Multivitamins; Zolpidem Tartrate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of alcoholism",
+      "History": "Alcoholism",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021487,
+    "hadm_id": 28998349,
+    "note": "M patient aged 43 years admitted for Injury to other gastrointestinal sites, without mention of open wound into cavity; Accidental poisoning from other specified plants; Closed fracture of four ribs. Underwent procedures: Peritoneal lavage; Percutaneous abdominal drainage; Reopening of recent laparotomy site. Medications prescribed: Insulin; Neutra-Phos; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Injury to other gastrointestinal sites, without mention of open wound into cavity",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021487,
+    "hadm_id": 21928381,
+    "note": "M patient aged 43 years admitted for Fistula of intestine, excluding rectum and anus; Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus; Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus. Underwent procedures: Percutaneous abdominal drainage. Medications prescribed: Levofloxacin; MetRONIDAZOLE (FLagyl); Piperacillin-Tazobactam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Fistula of intestine, excluding rectum and anus",
+      "History": "No significant medical history",
+      "Medication": "Levofloxacin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021487,
+    "hadm_id": 26321862,
+    "note": "M patient aged 43 years admitted for Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus; Abscess of liver. Underwent procedures: Other nonoperative replacements; Percutaneous aspiration of liver. Medications prescribed: HYDROmorphone (Dilaudid); CeftriaXONE; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus",
+      "History": "Known case of diabetes",
+      "Medication": "Hydromorphone (dilaudid)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021487,
+    "hadm_id": 27112038,
+    "note": "M patient aged 43 years admitted for Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms; Other postoperative infection; Other and unspecified Escherichia coli [E. coli]. Underwent procedures: Percutaneous abdominal drainage. Medications prescribed: Multivitamins; OxycoDONE (Immediate Release) ; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 24698912,
+    "note": "M patient aged 53 years admitted for Benign neoplasm of meninges, unspecified; Type 2 diabetes mellitus with diabetic chronic kidney disease; Type 2 diabetes mellitus with hyperglycemia. Underwent procedures: Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day; Excision of Right Foot Subcutaneous Tissue and Fascia, Open Approach; Excision of Right Metatarsal, Open Approach. Medications prescribed: Bag; Tuberculin Protein; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Benign neoplasm of meninges, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 28236161,
+    "note": "M patient aged 53 years admitted for Personal history of tobacco use; Pure hypercholesterolemia; Ulcer of other part of foot. Underwent procedures: Excisional debridement of wound, infection, or burn. Medications prescribed: Insulin; Zolpidem Tartrate; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of tobacco use",
+      "History": "Tobacco use",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 20790339,
+    "note": "M patient aged 53 years admitted for Polyneuropathy in diabetes; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified; Chronic kidney disease, Stage III (moderate). Underwent procedures: Excisional debridement of wound, infection, or burn. Medications prescribed: Insulin; Aspirin; Ondansetron. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Polyneuropathy in diabetes",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 25085565,
+    "note": "M patient aged 53 years admitted for Streptococcal septicemia; Anemia of other chronic disease; Examination of participant in clinical trial. Underwent procedures: Other skin graft to other sites; Other fasciectomy; Central venous catheter placement with guidance. Medications prescribed: Insulin; Bag; GlyBURIDE. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Streptococcal septicemia",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 20854119,
+    "note": "M patient aged 53 years admitted for Streptococcal septicemia; Pure hypercholesterolemia; Obesity, unspecified. Underwent procedures: Local excision of lesion or tissue of bone, other bones; Other incision with drainage of skin and subcutaneous tissue; Venous catheterization, not elsewhere classified. Medications prescribed: Insulin; Amlodipine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Streptococcal septicemia",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018423,
+    "hadm_id": 29366372,
+    "note": "M patient aged 37 years admitted for Acute posthemorrhagic anemia; Family history of ischemic heart disease and other diseases of the circulatory system; Pure hypercholesterolemia. Underwent procedures: Introduction of Other Therapeutic Substance into Heart, Open Approach; Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast; Excision of Left Internal Mammary Artery, Percutaneous Endoscopic Approach. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute posthemorrhagic anemia",
+      "History": "Ischemic heart disease and other diseases of the circulatory system",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007928,
+    "hadm_id": 20338077,
+    "note": "F patient aged 59 years admitted for Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction; Esophagitis, unspecified; Electrolyte and fluid disorders not elsewhere classified. Underwent procedures: Other endoscopy of small intestine. Medications prescribed: Multivitamins; Neutra-Phos; Diazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014078,
+    "hadm_id": 25809882,
+    "note": "F patient aged 60 years admitted for Unspecified infectious and parasitic diseases; Grand mal status; Unspecified essential hypertension. Underwent procedures: Spinal tap; Central venous catheter placement with guidance; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Insulin; Ampicillin Sodium; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified infectious and parasitic diseases",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020740,
+    "hadm_id": 25826145,
+    "note": "M patient aged 56 years admitted for Peritoneal adhesions (postoperative) (postinfection); Other and unspecified hyperlipidemia; Portal hypertension. Underwent procedures: Other laparoscopic umbilical herniorrhaphy; Laparoscopic lysis of peritoneal adhesions; Laparoscopic partial cholecystectomy. Medications prescribed: Insulin; Vial; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Peritoneal adhesions (postoperative) (postinfection)",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10008454,
+    "hadm_id": 20291550,
+    "note": "F patient aged 26 years admitted for Closed fracture of four ribs; Long-term (current) use of anticoagulants; Urinary tract infection, site not specified. Underwent procedures: Closed reduction of fracture with internal fixation, femur. Medications prescribed: Insulin; Bag; Warfarin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Closed fracture of four ribs",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10022281,
+    "hadm_id": 29642388,
+    "note": "M patient aged 84 years admitted for Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled; Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh; Dissection of aorta, abdominal. Underwent procedures: Arterial catheterization. Medications prescribed: Insulin; Oxycodone-Acetaminophen; Oxycodone-Acetaminophen (5mg-325mg). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 24357615,
+    "note": "M patient aged 60 years admitted for Paroxysmal atrial fibrillation; Gout, unspecified; Long term (current) use of insulin. Underwent procedures: none listed. Medications prescribed: Vial; Aspirin; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Paroxysmal atrial fibrillation",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 22741225,
+    "note": "M patient aged 60 years admitted for Chronic lymphocytic leukemia of B-cell type not having achieved remission; Pain in left shoulder; Chronic obstructive pulmonary disease, unspecified. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic lymphocytic leukemia of b-cell type not having achieved remission",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 26013492,
+    "note": "M patient aged 60 years admitted for Acute kidney failure, unspecified; Type 2 diabetes mellitus with diabetic nephropathy; Hypovolemia. Underwent procedures: none listed. Medications prescribed: Aspirin; Sucralfate; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 29757856,
+    "note": "M patient aged 60 years admitted for Personal history of malignant neoplasm of testis; Chronic kidney disease, stage 3 (moderate); Old myocardial infarction. Underwent procedures: Extraction of Stomach, Via Natural or Artificial Opening Endoscopic, Diagnostic. Medications prescribed: Aspirin; Sucralfate; Colchicine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of malignant neoplasm of testis",
+      "History": "Malignant neoplasm of testis",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10038933,
+    "hadm_id": 25129047,
+    "note": "M patient aged 34 years admitted for Encephalopathy, unspecified; Hyposmolality and/or hyponatremia; Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled. Underwent procedures: Other diagnostic procedures on lung or bronchus; Enteral infusion of concentrated nutritional substances; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Insulin; Bag; Multivitamins. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Encephalopathy, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10016150,
+    "hadm_id": 29374560,
+    "note": "M patient aged 69 years admitted for Accidents occurring in residential institution; Other primary cardiomyopathies; Chronic kidney disease, unspecified. Underwent procedures: Angiocardiography of left heart structures; Coronary arteriography using two catheters; Left heart cardiac catheterization. Medications prescribed: Insulin; Aspirin; Finasteride. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Accidents occurring in residential institution",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10022041,
+    "hadm_id": 28909879,
+    "note": "M patient aged 64 years admitted for Backache, unspecified; Alcohol withdrawal; Unspecified fall. Underwent procedures: Continuous invasive mechanical ventilation for less than 96 consecutive hours; Open reduction of fracture with internal fixation, humerus. Medications prescribed: Insulin; Bag; Glucagon. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Backache, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 20572787,
+    "note": "F patient aged 46 years admitted for Unspecified acquired hypothyroidism; Other and unspecified alcohol dependence, continuous; Gout, unspecified. Underwent procedures: none listed. Medications prescribed: Multivitamins; Bag; FoLIC Acid. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified acquired hypothyroidism",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 28258130,
+    "note": "F patient aged 46 years admitted for Anemia, unspecified; Dietary selenium deficiency; Acute embolism and thrombosis of unspecified deep veins of right lower extremity. Underwent procedures: Ultrasonography of Right Lower Extremity Veins, Guidance; Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic; Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Insulin; Multivitamins; Tuberculin Protein. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Anemia, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10000032,
+    "hadm_id": 22841357,
+    "note": "F patient aged 52 years admitted for Hyposmolality and/or hyponatremia; Asymptomatic human immunodeficiency virus [HIV] infection status; Thrombocytopenia, unspecified. Underwent procedures: Percutaneous abdominal drainage. Medications prescribed: Tiotropium Bromide; Sulfameth/Trimethoprim DS; Furosemide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hyposmolality and/or hyponatremia",
+      "History": "Known case of hypertension",
+      "Medication": "Tiotropium bromide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10000032,
+    "hadm_id": 25742920,
+    "note": "F patient aged 52 years admitted for Tobacco use disorder; Diarrhea; Asymptomatic human immunodeficiency virus [HIV] infection status. Underwent procedures: Percutaneous abdominal drainage. Medications prescribed: Tiotropium Bromide; Heparin; Morphine Sulfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Tobacco use disorder",
+      "History": "Known case of diabetes",
+      "Medication": "Tiotropium bromide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10000032,
+    "hadm_id": 29079034,
+    "note": "F patient aged 52 years admitted for Bipolar disorder, unspecified; Other ascites; Cachexia. Underwent procedures: none listed. Medications prescribed: Tiotropium Bromide; Albuterol 0.083% Neb Soln; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Bipolar disorder, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Tiotropium bromide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10026406,
+    "hadm_id": 25260176,
+    "note": "M patient aged 45 years admitted for Accidents occurring in unspecified place; Closed fracture of nasal bones; Other convulsions. Underwent procedures: none listed. Medications prescribed: Multivitamins; FoLIC Acid; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Accidents occurring in unspecified place",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 22326517,
+    "note": "F patient aged 78 years admitted for Anxiety state, unspecified; Acute bronchitis; Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled. Underwent procedures: none listed. Medications prescribed: Insulin; Neutra-Phos; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Anxiety state, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 22490490,
+    "note": "F patient aged 78 years admitted for Chronic kidney disease, Stage III (moderate); Acidosis; Hemorrhage of gastrointestinal tract, unspecified. Underwent procedures: none listed. Medications prescribed: Insulin; Bag; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic kidney disease, stage iii (moderate)",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 20192635,
+    "note": "F patient aged 78 years admitted for Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled; Esophageal reflux; Personal history of malignant neoplasm of tongue. Underwent procedures: none listed. Medications prescribed: Insulin; Bag; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Diabetes with other specified manifestations, type ii or unspecified type, not stated as uncontrolled",
+      "History": "Malignant neoplasm of tongue",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 29802992,
+    "note": "F patient aged 78 years admitted for Urinary tract infection, site not specified; Hyposmolality and/or hyponatremia; Backache, unspecified. Underwent procedures: none listed. Medications prescribed: Insulin; Neutra-Phos; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Urinary tract infection, site not specified",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 23721604,
+    "note": "F patient aged 78 years admitted for Insomnia, unspecified; Acute kidney failure, unspecified; Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure. Underwent procedures: Closed [endoscopic] biopsy of bronchus. Medications prescribed: Insulin; Bag; Albuterol 0.083% Neb Soln. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Insomnia, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 24225421,
+    "note": "F patient aged 78 years admitted for Other and unspecified Escherichia coli [E. coli]; Anemia, unspecified; Hyposmolality and/or hyponatremia. Underwent procedures: Pharyngoscopy; Irrigation of ear; Other diagnostic procedures on nasal sinuses. Medications prescribed: Insulin; Bag; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other and unspecified escherichia coli [e",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 24656677,
+    "note": "F patient aged 78 years admitted for Esophageal reflux; Acute kidney failure, unspecified; Nausea with vomiting. Underwent procedures: none listed. Medications prescribed: Insulin; Bag; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Esophageal reflux",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10029484,
+    "hadm_id": 20764029,
+    "note": "M patient aged 64 years admitted for Coronary atherosclerosis of unspecified type of vessel, native or graft; Unspecified essential hypertension; Dehydration. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10027445,
+    "hadm_id": 26275841,
+    "note": "F patient aged 48 years admitted for Acute respiratory failure; Dysthymic disorder; Backache, unspecified. Underwent procedures: Insertion of endotracheal tube; Enteral infusion of concentrated nutritional substances; Continuous invasive mechanical ventilation for less than 96 consecutive hours. Medications prescribed: Insulin; Vial; Diazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute respiratory failure",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012853,
+    "hadm_id": 22539296,
+    "note": "F patient aged 91 years admitted for Chronic kidney disease, Stage III (moderate); Body Mass Index 25.0-25.9, adult; Other and unspecified hyperlipidemia. Underwent procedures: none listed. Medications prescribed: Multivitamins; Amlodipine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic kidney disease, stage iii (moderate)",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012853,
+    "hadm_id": 26369609,
+    "note": "F patient aged 91 years admitted for Congestive heart failure, unspecified; Atrial fibrillation; Urinary tract infection, site not specified. Underwent procedures: none listed. Medications prescribed: Multivitamins; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Congestive heart failure, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012853,
+    "hadm_id": 27882036,
+    "note": "F patient aged 91 years admitted for Other specified diseases of upper respiratory tract; Gout, unspecified; Acute embolism and thrombosis of deep veins of left upper extremity. Underwent procedures: Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure. Medications prescribed: Multivitamins; Amlodipine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other specified diseases of upper respiratory tract",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 29279905,
+    "note": "F patient aged 65 years admitted for Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation; Chronic or unspecified duodenal ulcer with hemorrhage; Personal history of nicotine dependence. Underwent procedures: Destruction of Duodenum, Via Natural or Artificial Opening Endoscopic; Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach; Ultrasonography of Superior Vena Cava, Guidance. Medications prescribed: Insulin; Tiotropium Bromide; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",
+      "History": "Nicotine dependence",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 21457723,
+    "note": "F patient aged 65 years admitted for Other pancytopenia; Personal history of other venous thrombosis and embolism; Hemoglobinuria. Underwent procedures: Extraction of Iliac Bone Marrow, Percutaneous Approach, Diagnostic. Medications prescribed: Multivitamins; Tiotropium Bromide; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other pancytopenia",
+      "History": "Other venous thrombosis and embolism",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 27525946,
+    "note": "F patient aged 65 years admitted for Personal history of irradiation; Acute respiratory failure with hypoxia; Myelodysplastic disease, not classified. Underwent procedures: Occlusion of Hepatic Artery with Intraluminal Device, Percutaneous Approach; Destruction of Duodenum, Via Natural or Artificial Opening Endoscopic; Repair Duodenum, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Insulin; Tiotropium Bromide; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of irradiation",
+      "History": "Irradiation",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 26703331,
+    "note": "F patient aged 65 years admitted for Acute respiratory failure with hypoxia; Type 2 diabetes mellitus without complications; Chronic obstructive pulmonary disease, unspecified. Underwent procedures: Beam Radiation of Spleen using Photons 1 - 10 MeV; Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: Multivitamins; Tiotropium Bromide; Ramelteon. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute respiratory failure with hypoxia",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019777,
+    "hadm_id": 27738145,
+    "note": "M patient aged 51 years admitted for Other complications due to other vascular device, implant, and graft; Malignant neoplasm of body of pancreas; Other specified disorders of peritoneum. Underwent procedures: Procedure on single vessel; Central venous catheter placement with guidance; Continuous invasive mechanical ventilation for 96 consecutive hours or more. Medications prescribed: Vial; Bag; Lorazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other complications due to other vascular device, implant, and graft",
+      "History": "Known case of diabetes",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018501,
+    "hadm_id": 28479513,
+    "note": "M patient aged 83 years admitted for Alcohol withdrawal; Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness; Esophageal reflux. Underwent procedures: Alcohol detoxification. Medications prescribed: Diazepam; Sarna Lotion; Atenolol. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Alcohol withdrawal",
+      "History": "No significant medical history",
+      "Medication": "Diazepam",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004422,
+    "hadm_id": 21255400,
+    "note": "M patient aged 78 years admitted for Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation; Percutaneous transluminal coronary angioplasty status; Accidents occurring in residential institution. Underwent procedures: Extracorporeal circulation auxiliary to open heart surgery; Left heart cardiac catheterization; (Aorto)coronary bypass of three coronary arteries. Medications prescribed: Neutra-Phos; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+      "History": "Known case of hypertension",
+      "Medication": "Neutra-phos",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 27296885,
+    "note": "F patient aged 72 years admitted for Osteoarthrosis, localized, not specified whether primary or secondary, lower leg; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified; Obesity, unspecified. Underwent procedures: none listed. Medications prescribed: Bag; Warfarin; Furosemide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",
+      "History": "Known case of diabetes",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 29483621,
+    "note": "F patient aged 72 years admitted for Hypotension, unspecified; Obesity, unspecified; Other drugs and medicinal substances causing adverse effects in therapeutic use. Underwent procedures: Colonoscopy; Biopsy of anus. Medications prescribed: Bag; OxycoDONE (Immediate Release) ; Phytonadione. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypotension, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 22390287,
+    "note": "F patient aged 72 years admitted for Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified; Calculus of ureter; Chronic kidney disease, Stage III (moderate). Underwent procedures: Other radiotherapeutic procedure. Medications prescribed: Dexamethasone; Multivitamins W/minerals; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage i through stage iv, or unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Dexamethasone",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 26090619,
+    "note": "F patient aged 72 years admitted for Long-term (current) use of anticoagulants; Anticoagulants causing adverse effects in therapeutic use; Other nonspecific findings on examination of urine. Underwent procedures: none listed. Medications prescribed: Lenalidomide (Revlimide)15mg ; Phytonadione; Amlodipine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long-term (current) use of anticoagulants",
+      "History": "No significant medical history",
+      "Medication": "Lenalidomide (revlimide)15mg",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003400,
+    "hadm_id": 26467376,
+    "note": "F patient aged 72 years admitted for Chronic kidney disease, Stage III (moderate); Adrenal cortical steroids causing adverse effects in therapeutic use; Long-term (current) use of anticoagulants. Underwent procedures: none listed. Medications prescribed: Bag; Diltiazem; Furosemide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic kidney disease, stage iii (moderate)",
+      "History": "Known case of hypertension",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 28872262,
+    "note": "M patient aged 53 years admitted for Accidents occurring in residential institution; Body Mass Index 32.0-32.9, adult; Pulmonary collapse. Underwent procedures: Venous catheterization, not elsewhere classified; Automatic implantable cardioverter/defibrillator (AICD) check; Right heart cardiac catheterization. Medications prescribed: Aspirin; Bag; Lisinopril. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Accidents occurring in residential institution",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 29858644,
+    "note": "M patient aged 53 years admitted for Cardiac pacemaker in situ; Acute on chronic systolic heart failure; Anxiety state, unspecified. Underwent procedures: none listed. Medications prescribed: Multivitamins; Aspirin; Atorvastatin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Cardiac pacemaker in situ",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10017492,
+    "hadm_id": 27417763,
+    "note": "M patient aged 84 years admitted for Acute kidney failure, unspecified; Urinary tract infection, site not specified; Unspecified essential hypertension. Underwent procedures: Closed reduction of fracture with internal fixation, femur. Medications prescribed: Enoxaparin Sodium; Lidocaine Jelly 2% (Urojet); CefazoLIN. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Enoxaparin sodium",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10017492,
+    "hadm_id": 27672872,
+    "note": "M patient aged 84 years admitted for Occlusion and stenosis of carotid artery without mention of cerebral infarction; Urinary tract infection, site not specified; Other symbolic dysfunction. Underwent procedures: Spinal tap. Medications prescribed: Multivitamins; Amlodipine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Occlusion and stenosis of carotid artery without mention of cerebral infarction",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10038999,
+    "hadm_id": 29026789,
+    "note": "M patient aged 45 years admitted for Unspecified mental disorder due to known physiological condition; Unspecified place in other specified residential institution as the place of occurrence of the external cause; Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture. Underwent procedures: Reposition Right Tibia with Intramedullary Internal Fixation Device, Open Approach. Medications prescribed: Multivitamins; OxyCODONE (Immediate Release); TraZODone. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified mental disorder due to known physiological condition",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 25172300,
+    "note": "F patient aged 64 years admitted for Unspecified acquired hypothyroidism; Personal history of tobacco use; Long-term (current) use of anticoagulants. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Warfarin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified acquired hypothyroidism",
+      "History": "Tobacco use",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 25384176,
+    "note": "F patient aged 64 years admitted for Long-term (current) use of anticoagulants; Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled; Atrial fibrillation. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Metolazone. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long-term (current) use of anticoagulants",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 27876215,
+    "note": "F patient aged 64 years admitted for Abnormal coagulation profile; Hyperlipidemia, unspecified; Obesity, unspecified. Underwent procedures: Transfusion of Nonautologous 4-Factor Prothrombin Complex Concentrate into Vein, Percutaneous Approach; Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: Vial; Aspirin; FoLIC Acid. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Abnormal coagulation profile",
+      "History": "Known case of diabetes",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 27553957,
+    "note": "F patient aged 64 years admitted for Coronary atherosclerosis of native coronary artery; Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified; Depressive disorder, not elsewhere classified. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Lorazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Coronary atherosclerosis of native coronary artery",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10009049,
+    "hadm_id": 22995465,
+    "note": "M patient aged 56 years admitted for Bacterial pneumonia, unspecified; Severe sepsis; Hypopotassemia. Underwent procedures: none listed. Medications prescribed: Lidocaine Jelly 2% (Urojet); Heparin; Tamsulosin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Bacterial pneumonia, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Lidocaine jelly 2% (urojet)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10016742,
+    "hadm_id": 29281842,
+    "note": "F patient aged 58 years admitted for Eosinophilia; Ventilator associated pneumonia; Acute kidney failure, unspecified. Underwent procedures: Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach; Respiratory Ventilation, Greater than 96 Consecutive Hours. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Eosinophilia",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004457,
+    "hadm_id": 28723315,
+    "note": "M patient aged 65 years admitted for Personal history of irradiation, presenting hazards to health; Person boarding or alighting a pedal cycle injured in collision with railway train or railway vehicle; Gout, unspecified. Underwent procedures: none listed. Medications prescribed: Lisinopril; Aspirin; Clopidogrel. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of irradiation, presenting hazards to health",
+      "History": "Irradiation, presenting hazards to health",
+      "Medication": "Lisinopril",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10029291,
+    "hadm_id": 22205327,
+    "note": "F patient aged 50 years admitted for Hypokalemia; Patient room in hospital as the place of occurrence of the external cause; Adverse effect of diagnostic agents, initial encounter. Underwent procedures: Ultrasonography of Superior Vena Cava, Guidance; Respiratory Ventilation, Greater than 96 Consecutive Hours; Inspection of Larynx, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Insulin; Bag; Click Change <--- to Choose a Base Solution. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypokalemia",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004720,
+    "hadm_id": 22081550,
+    "note": "M patient aged 61 years admitted for Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure; Do not resuscitate; Encounter for palliative care. Underwent procedures: Drainage of Right Pleural Cavity with Drainage Device, Percutaneous Approach; Insertion of Infusion Device into Right Atrium, Percutaneous Approach; Introduction of Nutritional Substance into Upper GI, Via Natural or Artificial Opening. Medications prescribed: Neutra-Phos; Bag; CefePIME. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+      "History": "No significant medical history",
+      "Medication": "Neutra-phos",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019568,
+    "hadm_id": 28710730,
+    "note": "F patient aged 59 years admitted for Closed fracture of seven ribs; Home accidents; Accidental fall on or from other stairs or steps. Underwent procedures: Insertion of intercostal catheter for drainage. Medications prescribed: FoLIC Acid; Ondansetron; HYDROmorphone. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Closed fracture of seven ribs",
+      "History": "No significant medical history",
+      "Medication": "Folic acid",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 25922998,
+    "note": "F patient aged 48 years admitted for Alcohol dependence with withdrawal, unspecified; Opioid abuse, uncomplicated; Suicidal ideations. Underwent procedures: none listed. Medications prescribed: Multivitamins; Bag; FoLIC Acid. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Alcohol dependence with withdrawal, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 25696644,
+    "note": "F patient aged 48 years admitted for Alcohol abuse, unspecified; Lack of housing; Driver of heavy transport vehicle injured in collision with pedestrian or animal in nontraffic accident. Underwent procedures: none listed. Medications prescribed: Diazepam; FoLIC Acid; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Alcohol abuse, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Diazepam",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007795,
+    "hadm_id": 22051341,
+    "note": "F patient aged 53 years admitted for Other acute pain; Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified; Colostomy status. Underwent procedures: none listed. Medications prescribed: Multivitamins; Vial; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other acute pain",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007795,
+    "hadm_id": 20285402,
+    "note": "F patient aged 53 years admitted for Intestinal infection due to Clostridium difficile; Other and unspecified mycoses; Personal history of malignant neoplasm of breast. Underwent procedures: Central venous catheter placement with guidance; Enteral infusion of concentrated nutritional substances. Medications prescribed: Insulin; Multivitamins; Lorazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Intestinal infection due to clostridium difficile",
+      "History": "Malignant neoplasm of breast",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10010867,
+    "hadm_id": 22429197,
+    "note": "F patient aged 28 years admitted for Ventilator associated pneumonia; Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture; Physical restraint status. Underwent procedures: Respiratory Ventilation, Greater than 96 Consecutive Hours; Inspection of Tracheobronchial Tree, Via Natural or Artificial Opening Endoscopic; Fusion of Cervical Vertebral Joint with Interbody Fusion Device, Anterior Approach, Anterior Column, Open Approach. Medications prescribed: Insulin; Bag; CloniDINE. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Ventilator associated pneumonia",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10025463,
+    "hadm_id": 24470193,
+    "note": "M patient aged 66 years admitted for Unspecified hemorrhoids with other complication; Intracerebral hemorrhage; Obstructive hydrocephalus. Underwent procedures: Infusion of 4-Factor Prothrombin Complex Concentrate; Continuous invasive mechanical ventilation for less than 96 consecutive hours; Venous catheterization, not elsewhere classified. Medications prescribed: 23.4% Sodium Chloride; Lisinopril; Sotalol. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified hemorrhoids with other complication",
+      "History": "No significant medical history",
+      "Medication": "23",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 28662225,
+    "note": "F patient aged 80 years admitted for Other drugs and medicinal substances causing adverse effects in therapeutic use; Acidosis; Acute kidney failure with lesion of tubular necrosis. Underwent procedures: Parenteral infusion of concentrated nutritional substances; Venous catheterization, not elsewhere classified; Closed [endoscopic] biopsy of bronchus. Medications prescribed: Insulin; Tiotropium Bromide; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other drugs and medicinal substances causing adverse effects in therapeutic use",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 20321825,
+    "note": "F patient aged 80 years admitted for Unspecified essential hypertension; Drug-induced delirium; Mitral valve disorders. Underwent procedures: Non-invasive mechanical ventilation. Medications prescribed: Albuterol 0.083% Neb Soln; Heparin; Levothyroxine Sodium. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified essential hypertension",
+      "History": "No significant medical history",
+      "Medication": "Albuterol 0",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 23473524,
+    "note": "F patient aged 80 years admitted for Examination of participant in clinical trial; Person on outside of bus injured in collision with pedestrian or animal in traffic accident; Intestinal infection due to Clostridium difficile. Underwent procedures: Continuous invasive mechanical ventilation for 96 consecutive hours or more; Insertion of endotracheal tube; Arterial catheterization. Medications prescribed: Insulin; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Examination of participant in clinical trial",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007818,
+    "hadm_id": 22987108,
+    "note": "M patient aged 69 years admitted for Adult failure to thrive; Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere; Sepsis due to Escherichia coli [E. coli]. Underwent procedures: Insertion of Infusion Device into Right Atrium, Percutaneous Approach; Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening; Fluoroscopy of Multiple Coronary Arteries using Other Contrast. Medications prescribed: Insulin; Bag; Multivitamins. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Adult failure to thrive",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004235,
+    "hadm_id": 22187210,
+    "note": "M patient aged 47 years admitted for Autistic disorder, current or active state; Atrial fibrillation; Long-term (current) use of anticoagulants. Underwent procedures: none listed. Medications prescribed: Vial; Warfarin; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Autistic disorder, current or active state",
+      "History": "Known case of diabetes",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10001217,
+    "hadm_id": 27703517,
+    "note": "F patient aged 55 years admitted for Multiple sclerosis; Cerebral edema; Intracranial abscess. Underwent procedures: Other incision of brain. Medications prescribed: Vial; Bag; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Multiple sclerosis",
+      "History": "Known case of hypertension",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10021487,
+    "hadm_id": 27660781,
+    "note": "M patient aged 43 years admitted for Peritoneal abscess; Unspecified pleural effusion; Abscess of liver. Underwent procedures: Enteral infusion of concentrated nutritional substances; Endoscopic insertion of stent (tube) into bile duct; Endoscopic insertion of stent (tube) into pancreatic duct. Medications prescribed: Insulin; Multivitamins; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Peritoneal abscess",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 28613200,
+    "note": "M patient aged 53 years admitted for Ulcer of other part of foot; Long-term (current) use of insulin; Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled. Underwent procedures: Other partial ostectomy, tarsals and metatarsals. Medications prescribed: Insulin; Lisinopril; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Ulcer of other part of foot",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10031757,
+    "hadm_id": 28477280,
+    "note": "F patient aged 67 years admitted for Impaired fasting glucose; Other and unspecified hyperlipidemia; Long-term (current) use of aspirin. Underwent procedures: Aortography; Other endovascular procedures on other vessels; Arteriography of other intra-abdominal arteries. Medications prescribed: Multivitamins; Vial; Enoxaparin Sodium. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Impaired fasting glucose",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 27562275,
+    "note": "M patient aged 60 years admitted for Long term (current) use of anticoagulants; Type 2 diabetes mellitus with hyperglycemia; Hyperlipidemia, unspecified. Underwent procedures: none listed. Medications prescribed: Multivitamins; Aspirin; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long term (current) use of anticoagulants",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 27496788,
+    "note": "M patient aged 63 years admitted for Pneumonia, organism unspecified; Aspergillosis; Acute myeloid leukemia, without mention of having achieved remission. Underwent procedures: Closed endoscopic biopsy of lung; Closed [endoscopic] biopsy of bronchus. Medications prescribed: FoLIC Acid; Lorazepam; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Pneumonia, organism unspecified",
+      "History": "No significant medical history",
+      "Medication": "Folic acid",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 29462354,
+    "note": "M patient aged 63 years admitted for Examination of participant in clinical trial; Person on outside of bus injured in collision with pedestrian or animal in traffic accident; Vaccination not carried out because of chronic illness or condition. Underwent procedures: Biopsy of bone marrow; Central venous catheter placement with guidance; Injection or infusion of cancer chemotherapeutic substance. Medications prescribed: Vial; Lorazepam; Omeprazole. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Examination of participant in clinical trial",
+      "History": "Known case of hypertension",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 22732862,
+    "note": "M patient aged 63 years admitted for Local infection due to central venous catheter; Other pancytopenia; Personal history of tobacco use. Underwent procedures: Closed [endoscopic] biopsy of bronchus; Removal of other device from thorax. Medications prescribed: Bag; Heparin; Magnesium Sulfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Local infection due to central venous catheter",
+      "History": "Tobacco use",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 21599196,
+    "note": "M patient aged 63 years admitted for Acute myeloblastic leukemia, in relapse; Personal history of nicotine dependence; Personal history of malignant neoplasm of breast. Underwent procedures: Insertion of Infusion Device into Right Atrium, Percutaneous Approach; Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach. Medications prescribed: Multivitamins; Bag; Magnesium Sulfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute myeloblastic leukemia, in relapse",
+      "History": "Nicotine dependence",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 26529390,
+    "note": "F patient aged 65 years admitted for Anxiety disorder, unspecified; Other overlap syndromes; Atelectasis. Underwent procedures: Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach; Extraction of Iliac Bone Marrow, Percutaneous Approach, Diagnostic; Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic. Medications prescribed: Multivitamins; Tiotropium Bromide; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Anxiety disorder, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 28887654,
+    "note": "M patient aged 53 years admitted for Adverse effect of unspecified antipsychotics and neuroleptics, sequela; Other secondary pulmonary hypertension; Major depressive disorder, single episode, unspecified. Underwent procedures: none listed. Medications prescribed: Aspirin; Atorvastatin; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Adverse effect of unspecified antipsychotics and neuroleptics, sequela",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 23688993,
+    "note": "F patient aged 48 years admitted for Suicidal ideation; Cocaine abuse, unspecified; Depressive disorder, not elsewhere classified. Underwent procedures: none listed. Medications prescribed: Nicotine Polacrilex; Amitriptyline; HydrOXYzine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Suicidal ideation",
+      "History": "Known case of hypertension",
+      "Medication": "Nicotine polacrilex",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10025463,
+    "hadm_id": 27327816,
+    "note": "M patient aged 66 years admitted for Personal history of tobacco use; Unspecified essential hypertension; Atrial fibrillation. Underwent procedures: Cardiac mapping; Excision or destruction of other lesion or tissue of heart, endovascular approach; Other electric countershock of heart. Medications prescribed: Oxycodone-Acetaminophen (5mg-325mg); Zolpidem Tartrate; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of tobacco use",
+      "History": "Tobacco use",
+      "Medication": "Oxycodone-acetaminophen (5mg-325mg)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023239,
+    "hadm_id": 28984460,
+    "note": "F patient aged 29 years admitted for Epilepsy, unspecified, not intractable, without status epilepticus; Hypothyroidism, unspecified; Pure hypercholesterolemia, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Epilepsy, unspecified, not intractable, without status epilepticus",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10024043,
+    "hadm_id": 25561728,
+    "note": "M patient aged 67 years admitted for Other respiratory abnormalities; Palpitations; Unspecified essential hypertension. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other respiratory abnormalities",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 27670224,
+    "note": "M patient aged 53 years admitted for Personal history of noncompliance with medical treatment, presenting hazards to health; Obesity, unspecified; Chronic kidney disease, unspecified. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Lisinopril. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of noncompliance with medical treatment, presenting hazards to health",
+      "History": "Noncompliance with medical treatment, presenting hazards to health",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 22607171,
+    "note": "M patient aged 53 years admitted for Acute kidney failure, unspecified; Type 2 diabetes mellitus with diabetic nephropathy; Type 2 diabetes mellitus with hyperglycemia. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 22416954,
+    "note": "M patient aged 53 years admitted for Type 2 diabetes mellitus with diabetic chronic kidney disease; Dependence on renal dialysis; Localized swelling, mass and lump, left upper limb. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020740,
+    "hadm_id": 23143086,
+    "note": "M patient aged 56 years admitted for Schizoaffective disorder, chronic with acute exacerbation; Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled; Long-term (current) use of insulin. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Schizoaffective disorder, chronic with acute exacerbation",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020740,
+    "hadm_id": 23199774,
+    "note": "M patient aged 56 years admitted for Bipolar I disorder, most recent episode (or current) mixed, unspecified; Insomnia, unspecified; Headache. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Bipolar i disorder, most recent episode (or current) mixed, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 24096336,
+    "note": "M patient aged 60 years admitted for Presence of cardiac pacemaker; Essential (primary) hypertension; Type 2 diabetes mellitus with hyperglycemia. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Presence of cardiac pacemaker",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 26722126,
+    "note": "M patient aged 60 years admitted for Type 2 diabetes mellitus without complications; Presence of cardiac pacemaker; Hyperlipidemia, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Type 2 diabetes mellitus without complications",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 20900955,
+    "note": "M patient aged 60 years admitted for Long term (current) use of antithrombotics/antiplatelets; Chronic lymphocytic leukemia of B-cell type not having achieved remission; Disorientation, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long term (current) use of antithrombotics/antiplatelets",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 22502504,
+    "note": "M patient aged 60 years admitted for Malignant neoplasm of left testis, unspecified whether descended or undescended; Atherosclerotic heart disease of native coronary artery without angina pectoris; Other chest pain. Underwent procedures: none listed. Medications prescribed: Aspirin; Atorvastatin; Clopidogrel. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Malignant neoplasm of left testis, unspecified whether descended or undescended",
+      "History": "Known case of diabetes",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 26173805,
+    "note": "M patient aged 60 years admitted for Long term (current) use of insulin; Type 2 diabetes mellitus with diabetic polyneuropathy; Personal history of malignant neoplasm of testis. Underwent procedures: none listed. Medications prescribed: Aspirin; Losartan Potassium; Glucagon. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long term (current) use of insulin",
+      "History": "Malignant neoplasm of testis",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 27494880,
+    "note": "M patient aged 60 years admitted for Long term (current) use of antithrombotics/antiplatelets; Obstructive sleep apnea (adult) (pediatric); Presence of cardiac pacemaker. Underwent procedures: none listed. Medications prescribed: Insulin; Aspirin; Atorvastatin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long term (current) use of antithrombotics/antiplatelets",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 27504040,
+    "note": "F patient aged 46 years admitted for Nicotine dependence, cigarettes, uncomplicated; Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease; Alcoholic cirrhosis of liver without ascites. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Nicotine dependence, cigarettes, uncomplicated",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10026406,
+    "hadm_id": 25166559,
+    "note": "M patient aged 45 years admitted for Anxiety disorder, unspecified; Alcohol dependence with withdrawal, unspecified; Nicotine dependence, cigarettes, uncomplicated. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Anxiety disorder, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 22228639,
+    "note": "F patient aged 78 years admitted for Fracture of one rib, left side, initial encounter for closed fracture; Gastro-esophageal reflux disease without esophagitis; Type 2 diabetes mellitus without complications. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Fracture of one rib, left side, initial encounter for closed fracture",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 28543425,
+    "note": "F patient aged 78 years admitted for Contusion of toe; Unspecified essential hypertension; Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Contusion of toe",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012853,
+    "hadm_id": 22896692,
+    "note": "F patient aged 91 years admitted for Hematuria, unspecified; Chronic kidney disease, unspecified; Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hematuria, unspecified",
+      "History": "Transient ischemic attack (tia), and cerebral infarction without residual deficits",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039997,
+    "hadm_id": 21390688,
+    "note": "F patient aged 67 years admitted for Essential (primary) hypertension; Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side; Manic episode, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Essential (primary) hypertension",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020306,
+    "hadm_id": 26332470,
+    "note": "F patient aged 74 years admitted for Heart failure, unspecified; Atherosclerotic heart disease of native coronary artery without angina pectoris; Pure hypercholesterolemia, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Heart failure, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 25282382,
+    "note": "F patient aged 48 years admitted for Unemployment; Driver of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle in nontraffic accident; Unspecified viral hepatitis C without hepatic coma. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unemployment",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 28697806,
+    "note": "F patient aged 48 years admitted for Hypoglycemia, unspecified; Asymptomatic human immunodeficiency virus [HIV] infection status; Unspecified viral hepatitis C without hepatic coma. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypoglycemia, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 20846853,
+    "note": "F patient aged 48 years admitted for Human immunodeficiency virus [HIV] disease; Alcohol abuse with intoxication, unspecified; Altered mental status, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Human immunodeficiency virus [hiv] disease",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 22380825,
+    "note": "F patient aged 48 years admitted for Unemployment; Driver of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle in nontraffic accident; Mononeuritis of unspecified site. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unemployment",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 23720373,
+    "note": "F patient aged 48 years admitted for Unspecified mood [affective] disorder; Unspecified injury of head, initial encounter; Urinary tract infection, site not specified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified mood [affective] disorder",
+      "History": "Known case of hypertension",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 20282368,
+    "note": "F patient aged 48 years admitted for Cervicalgia; Thrombocytopenia, unspecified; Suicidal ideations. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Cervicalgia",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002930,
+    "hadm_id": 28477649,
+    "note": "F patient aged 48 years admitted for Asymptomatic human immunodeficiency virus [HIV] infection status; Unspecified viral hepatitis C without hepatic coma; Alcohol abuse, unspecified. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Asymptomatic human immunodeficiency virus [hiv] infection status",
+      "History": "Known case of diabetes",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 28676446,
+    "note": "F patient aged 80 years admitted for Unspecified essential hypertension; Sicca syndrome; Other and unspecified hyperlipidemia. Underwent procedures: Closed reduction of fracture with internal fixation, femur. Medications prescribed: Multivitamins; Neutra-Phos; Oxycodone-Acetaminophen (5mg-325mg). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified essential hypertension",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 25797028,
+    "note": "F patient aged 80 years admitted for Urinary tract infection, site not specified; Sicca syndrome; Unspecified acquired hypothyroidism. Underwent procedures: none listed. Medications prescribed: Sulfameth/Trimethoprim DS; Heparin; Levothyroxine Sodium. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Urinary tract infection, site not specified",
+      "History": "Known case of diabetes",
+      "Medication": "Sulfameth/trimethoprim ds",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 26549334,
+    "note": "F patient aged 80 years admitted for Unspecified injury of left hip, initial encounter; Dry eye syndrome of bilateral lacrimal glands; Unspecified injury of head, initial encounter. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified injury of left hip, initial encounter",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018328,
+    "hadm_id": 26706939,
+    "note": "F patient aged 83 years admitted for Insomnia, unspecified; Essential (primary) hypertension; Fall on same level, unspecified, initial encounter. Underwent procedures: none listed. Medications prescribed: amLODIPine; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Insomnia, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Amlodipine",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005817,
+    "hadm_id": 28661809,
+    "note": "M patient aged 66 years admitted for Other secondary neuroendocrine tumors; Dependence on supplemental oxygen; Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease. Underwent procedures: Drainage of Left Lower Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic; Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening; Drainage of Right Pleural Cavity with Drainage Device, Percutaneous Approach. Medications prescribed: Insulin; Multivitamins; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other secondary neuroendocrine tumors",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019385,
+    "hadm_id": 20611796,
+    "note": "M patient aged 44 years admitted for Presence of aortocoronary bypass graft; Presence of coronary angioplasty implant and graft; Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris. Underwent procedures: none listed. Medications prescribed: Aspirin; HYDROmorphone (Dilaudid); Clopidogrel. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Presence of aortocoronary bypass graft",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020187,
+    "hadm_id": 24104168,
+    "note": "F patient aged 63 years admitted for Pure hypercholesterolemia; Hyperlipidemia, unspecified; Atherosclerotic heart disease of native coronary artery without angina pectoris. Underwent procedures: Restriction of Intracranial Artery with Intraluminal Device, Percutaneous Approach. Medications prescribed: Acetaminophen-Caff-Butalbital; Neutra-Phos; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Pure hypercholesterolemia",
+      "History": "Known case of hypertension",
+      "Medication": "Acetaminophen-caff-butalbital",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10010471,
+    "hadm_id": 21322534,
+    "note": "F patient aged 89 years admitted for Awaiting organ transplant status; End stage renal disease; Hypothyroidism, unspecified. Underwent procedures: Performance of Urinary Filtration, Multiple. Medications prescribed: Methadone; Nephrocaps; Albuterol 0.083% Neb Soln. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Awaiting organ transplant status",
+      "History": "Known case of diabetes",
+      "Medication": "Methadone",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 22589518,
+    "note": "M patient aged 57 years admitted for Acidosis; Other ascites; Hypo-osmolality and hyponatremia. Underwent procedures: Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic. Medications prescribed: Multivitamins; Sulfameth/Trimethoprim SS; Furosemide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acidosis",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 21636229,
+    "note": "M patient aged 57 years admitted for Body mass index (BMI) 20.0-20.9, adult; Alcoholic cirrhosis of liver with ascites; Peritoneal adhesions (postprocedural) (postinfection). Underwent procedures: Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic. Medications prescribed: Multivitamins; Sulfameth/Trimethoprim SS; Furosemide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Body mass index (bmi) 20",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 23514107,
+    "note": "M patient aged 57 years admitted for Portal hypertension; Portal vein thrombosis; Nicotine dependence, cigarettes, uncomplicated. Underwent procedures: none listed. Medications prescribed: Vial; Bag; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Portal hypertension",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005866,
+    "hadm_id": 20364112,
+    "note": "M patient aged 57 years admitted for Portal hypertension; Peritoneal adhesions (postprocedural) (postinfection); Encounter for palliative care. Underwent procedures: Drainage of Stomach, Percutaneous Approach, Diagnostic; Inspection of Gastrointestinal Tract, Open Approach; Insertion of Feeding Device into Duodenum, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Multivitamins; Bag; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Portal hypertension",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 25103777,
+    "note": "M patient aged 53 years admitted for Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter; End stage renal disease; Hyperkalemia. Underwent procedures: Removal of Infusion Device from Heart, External Approach; Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day; Removal of Tunneled Vascular Access Device from Trunk Subcutaneous Tissue and Fascia, External Approach. Medications prescribed: Vancomycin; Bag; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter",
+      "History": "Known case of hypertension",
+      "Medication": "Vancomycin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 22413744,
+    "note": "M patient aged 53 years admitted for Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease; Tinea cruris; Type 2 diabetes mellitus with foot ulcer. Underwent procedures: Drainage of Right Hip Joint, Percutaneous Approach, Diagnostic. Medications prescribed: Insulin; amLODIPine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015860,
+    "hadm_id": 28196804,
+    "note": "M patient aged 53 years admitted for Gastro-esophageal reflux disease without esophagitis; Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter; Surgical instruments, materials and cardiovascular devices (including sutures) associated with adverse incidents. Underwent procedures: Fluoroscopy of Dialysis Shunt/Fistula using Low Osmolar Contrast; Dilation of Left Cephalic Vein, Percutaneous Approach; Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day. Medications prescribed: Bag; Aspirin; Lisinopril. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Gastro-esophageal reflux disease without esophagitis",
+      "History": "No significant medical history",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 22508257,
+    "note": "M patient aged 60 years admitted for Unspecified glaucoma; Anxiety disorder, unspecified; Hypothyroidism, unspecified. Underwent procedures: Excision of Cecum, Via Natural or Artificial Opening Endoscopic, Diagnostic; Excision of Descending Colon, Via Natural or Artificial Opening Endoscopic, Diagnostic; Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Aspirin; CloNIDine; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified glaucoma",
+      "History": "Known case of hypertension",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 29600294,
+    "note": "M patient aged 60 years admitted for Unspecified atrial flutter; Chronic diastolic (congestive) heart failure; Body mass index (BMI) 36.0-36.9, adult. Underwent procedures: none listed. Medications prescribed: Multivitamins; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified atrial flutter",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 26228185,
+    "note": "M patient aged 60 years admitted for Thrombocytopenia, unspecified; Presence of cardiac pacemaker; Iron deficiency anemia, unspecified. Underwent procedures: none listed. Medications prescribed: Vial; Aspirin; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Thrombocytopenia, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 24980601,
+    "note": "M patient aged 60 years admitted for Body mass index (BMI) 37.0-37.9, adult; Unspecified mental disorder due to known physiological condition; Unspecified glaucoma. Underwent procedures: none listed. Medications prescribed: Sucralfate; HYDROmorphone (Dilaudid); LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Body mass index (bmi) 37",
+      "History": "Known case of hypertension",
+      "Medication": "Sucralfate",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 26486158,
+    "note": "M patient aged 60 years admitted for Presence of coronary angioplasty implant and graft; Long term (current) use of anticoagulants; Other specified soft tissue disorders. Underwent procedures: Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach. Medications prescribed: venetoclax; Multivitamins; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Presence of coronary angioplasty implant and graft",
+      "History": "Known case of diabetes",
+      "Medication": "Venetoclax",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 29780751,
+    "note": "M patient aged 60 years admitted for Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits; Malignant neoplasm of left testis, unspecified whether descended or undescended; Presence of coronary angioplasty implant and graft. Underwent procedures: none listed. Medications prescribed: Bag; Sucralfate; CloNIDine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of transient ischemic attack (tia), and cerebral infarction without residual deficits",
+      "History": "Transient ischemic attack (tia), and cerebral infarction without residual deficits",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014354,
+    "hadm_id": 23132022,
+    "note": "M patient aged 60 years admitted for Acute pericarditis, unspecified; Body mass index (BMI) 36.0-36.9, adult; Long term (current) use of oral hypoglycemic drugs. Underwent procedures: none listed. Medications prescribed: Multivitamins; Aspirin; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute pericarditis, unspecified",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005909,
+    "hadm_id": 20199380,
+    "note": "F patient aged 40 years admitted for Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure; Compression of vein; Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure. Underwent procedures: Dilation of Left Common Iliac Vein with Intraluminal Device, Percutaneous Approach; Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach; Extirpation of Matter from Left Femoral Vein, Percutaneous Approach. Medications prescribed: ClonazePAM; OxyCODONE (Immediate Release); Warfarin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure",
+      "History": "Known case of hypertension",
+      "Medication": "Clonazepam",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 26793610,
+    "note": "F patient aged 46 years admitted for Hypothyroidism, unspecified; Nicotine dependence, cigarettes, uncomplicated; Acidosis. Underwent procedures: none listed. Medications prescribed: FoLIC Acid; Multivitamins W/minerals; Cetirizine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypothyroidism, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Folic acid",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 29488258,
+    "note": "F patient aged 46 years admitted for Secondary esophageal varices without bleeding; Hypothyroidism, unspecified; Patient's intentional underdosing of medication regimen for other reason. Underwent procedures: Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day. Medications prescribed: Multivitamins; Sucralfate; FoLIC Acid. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Secondary esophageal varices without bleeding",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 24928679,
+    "note": "F patient aged 46 years admitted for Dependence on renal dialysis; Alcohol abuse, uncomplicated; Personal history of other venous thrombosis and embolism. Underwent procedures: Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day; Occlusion of Esophageal Vein with Extraluminal Device, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Multivitamins; Vial; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Dependence on renal dialysis",
+      "History": "Other venous thrombosis and embolism",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 23819016,
+    "note": "F patient aged 46 years admitted for Severe sepsis with septic shock; Alcohol dependence, uncomplicated; Bariatric surgery status. Underwent procedures: Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: FoLIC Acid; LORazepam; Multivitamins W/minerals. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Severe sepsis with septic shock",
+      "History": "Known case of diabetes",
+      "Medication": "Folic acid",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 20093566,
+    "note": "F patient aged 46 years admitted for Localized edema; Melena; Alcohol dependence with withdrawal, unspecified. Underwent procedures: Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day. Medications prescribed: Multivitamins; Vial; Sucralfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Localized edema",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10037928,
+    "hadm_id": 24885579,
+    "note": "F patient aged 78 years admitted for Type 2 diabetes mellitus with hyperglycemia; Gastro-esophageal reflux disease without esophagitis; Unspecified acute appendicitis. Underwent procedures: none listed. Medications prescribed: Vial; Bag; Insulin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Type 2 diabetes mellitus with hyperglycemia",
+      "History": "No significant medical history",
+      "Medication": "Vial",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 21476294,
+    "note": "M patient aged 63 years admitted for Adverse effect of cephalosporins and other beta-lactam antibiotics, initial encounter; Hypo-osmolality and hyponatremia; Patient room in hospital as the place of occurrence of the external cause. Underwent procedures: Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach; Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach; Extraction of Iliac Bone Marrow, Percutaneous Approach, Diagnostic. Medications prescribed: Multivitamins; Vial; LOPERamide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Adverse effect of cephalosporins and other beta-lactam antibiotics, initial encounter",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 29276678,
+    "note": "M patient aged 63 years admitted for Atelectasis; Do not resuscitate; Graft-versus-host disease, unspecified. Underwent procedures: Excision of Abdomen Skin, External Approach, Diagnostic; Drainage of Right Lower Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic; Performance of Urinary Filtration, Single. Medications prescribed: Bag; Multivitamins; Syringe. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Atelectasis",
+      "History": "Known case of diabetes",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015931,
+    "hadm_id": 24420677,
+    "note": "M patient aged 87 years admitted for Long term (current) use of insulin; Benign prostatic hyperplasia without lower urinary tract symptoms; Long term (current) use of antithrombotics/antiplatelets. Underwent procedures: Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: Insulin; Multivitamins; Tiotropium Bromide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long term (current) use of insulin",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10015931,
+    "hadm_id": 28157142,
+    "note": "M patient aged 87 years admitted for Acute on chronic systolic (congestive) heart failure; Type 2 diabetes mellitus with diabetic chronic kidney disease; Nonrheumatic aortic (valve) stenosis. Underwent procedures: Introduction of Other Therapeutic Substance into Peripheral Artery, Percutaneous Approach; Replacement of Aortic Valve with Zooplastic Tissue, Percutaneous Approach. Medications prescribed: Insulin; Multivitamins; Tiotropium Bromide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute on chronic systolic (congestive) heart failure",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10019003,
+    "hadm_id": 25508812,
+    "note": "F patient aged 65 years admitted for Infarction of spleen; Type 2 diabetes mellitus without complications; Chronic pulmonary edema. Underwent procedures: Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic; Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic. Medications prescribed: Multivitamins; Tiotropium Bromide; OxyCODONE (Immediate Release). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Infarction of spleen",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039997,
+    "hadm_id": 22484749,
+    "note": "F patient aged 67 years admitted for Cerebral infarction due to embolism of unspecified cerebral artery; Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease; Chronic kidney disease, unspecified. Underwent procedures: none listed. Medications prescribed: Aspirin; Clopidogrel; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Cerebral infarction due to embolism of unspecified cerebral artery",
+      "History": "Known case of hypertension",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 21607814,
+    "note": "M patient aged 53 years admitted for Other disorders of bilirubin metabolism; Barrett's esophagus without dysplasia; Nonrheumatic tricuspid (valve) insufficiency. Underwent procedures: Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: Zolpidem Tartrate; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other disorders of bilirubin metabolism",
+      "History": "Known case of diabetes",
+      "Medication": "Zolpidem tartrate",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 21133938,
+    "note": "M patient aged 53 years admitted for Anuria and oliguria; Hematuria, unspecified; Chronic kidney disease, unspecified. Underwent procedures: Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening Endoscopic; Monitoring of Arterial Pressure, Pulmonary, Percutaneous Approach; Respiratory Ventilation, 24-96 Consecutive Hours. Medications prescribed: Insulin; Vial; Zolpidem Tartrate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Anuria and oliguria",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020306,
+    "hadm_id": 23052851,
+    "note": "F patient aged 74 years admitted for Acute kidney failure with tubular necrosis; Pilonidal cyst without abscess; Obstructive sleep apnea (adult) (pediatric). Underwent procedures: Introduction of Nutritional Substance into Upper GI, Via Natural or Artificial Opening; Insertion of Monitoring Device into Upper Artery, Percutaneous Approach; Insertion of Infusion Device into Superior Vena Cava, Percutaneous Approach. Medications prescribed: Calcium Gluconate sliding scale (Critical Care-Ionized calcium); Neutra-Phos; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute kidney failure with tubular necrosis",
+      "History": "Known case of diabetes",
+      "Medication": "Calcium gluconate sliding scale (critical care-ionized calcium)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10038999,
+    "hadm_id": 27189241,
+    "note": "M patient aged 45 years admitted for Pneumonia, unspecified organism; Atelectasis; Unspecified protein-calorie malnutrition. Underwent procedures: Drainage of Left Upper Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic; Drainage of Left Pleural Cavity, Percutaneous Approach; Drainage of Left Pleural Cavity, Percutaneous Approach, Diagnostic. Medications prescribed: Bag; Colchicine; CefePIME. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Pneumonia, unspecified organism",
+      "History": "No significant medical history",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 21791856,
+    "note": "F patient aged 64 years admitted for Old myocardial infarction; Retinal artery branch occlusion, unspecified eye; Obesity, unspecified. Underwent procedures: none listed. Medications prescribed: Aspirin; LORazepam; Ondansetron. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Old myocardial infarction",
+      "History": "Known case of diabetes",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 22251969,
+    "note": "F patient aged 64 years admitted for Atherosclerosis of renal artery; Adverse effect of anticoagulants, initial encounter; Unspecified place or not applicable. Underwent procedures: none listed. Medications prescribed: Aspirin; LORazepam; Ondansetron. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Atherosclerosis of renal artery",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 27259207,
+    "note": "F patient aged 64 years admitted for Long term (current) use of insulin; Type 2 diabetes mellitus with hypoglycemia without coma; Presence of coronary angioplasty implant and graft. Underwent procedures: Excision of Left Foot Tendon, Open Approach; Fluoroscopy of Abdominal Aorta; Fluoroscopy of Left Lower Extremity Arteries using Other Contrast. Medications prescribed: Aspirin; FoLIC Acid; LORazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long term (current) use of insulin",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 27996267,
+    "note": "F patient aged 64 years admitted for Type 2 diabetes mellitus with diabetic chronic kidney disease; Encounter for palliative care; Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease. Underwent procedures: Excision of Left Foot Tendon, Open Approach; Excision of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach; Extraction of Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach. Medications prescribed: Tiotropium Bromide; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+      "History": "Known case of hypertension",
+      "Medication": "Tiotropium bromide",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10016742,
+    "hadm_id": 28506150,
+    "note": "F patient aged 58 years admitted for Hypotension, unspecified; Amyotrophic lateral sclerosis; Unspecified convulsions. Underwent procedures: Extirpation of Matter from Left Lower Lobe Bronchus, Via Natural or Artificial Opening Endoscopic; Respiratory Ventilation, 24-96 Consecutive Hours; Extirpation of Matter from Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Hypotension, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10016742,
+    "hadm_id": 27568122,
+    "note": "F patient aged 58 years admitted for Encounter for attention to other artificial openings of digestive tract; Amyotrophic lateral sclerosis; Other diseases of bronchus, not elsewhere classified. Underwent procedures: Introduction of Nutritional Substance into Lower GI, Via Natural or Artificial Opening; Respiratory Ventilation, 24-96 Consecutive Hours; Change Feeding Device in Lower Intestinal Tract, External Approach. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Encounter for attention to other artificial openings of digestive tract",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10010867,
+    "hadm_id": 22196214,
+    "note": "F patient aged 28 years admitted for Nontoxic single thyroid nodule; Other paved roadways as the place of occurrence of the external cause; Driver of other special all-terrain or other off-road motor vehicle injured in traffic accident, sequela. Underwent procedures: Drainage of Right Pleural Cavity with Drainage Device, Percutaneous Approach. Medications prescribed: Zolpidem Tartrate; Diazepam; Tizanidine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Nontoxic single thyroid nodule",
+      "History": "No significant medical history",
+      "Medication": "Zolpidem tartrate",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10010867,
+    "hadm_id": 22950920,
+    "note": "F patient aged 28 years admitted for Arthrodesis status; Car occupant (driver) (passenger) injured in unspecified traffic accident, initial encounter; Body mass index (BMI) 33.0-33.9, adult. Underwent procedures: Fusion of 8 or more Thoracic Vertebral Joints with Autologous Tissue Substitute, Posterior Approach, Posterior Column, Open Approach. Medications prescribed: Diazepam; Ondansetron; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Arthrodesis status",
+      "History": "No significant medical history",
+      "Medication": "Diazepam",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10002428,
+    "hadm_id": 28295257,
+    "note": "F patient aged 80 years admitted for Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture; Unspecified severe protein-calorie malnutrition; Body mass index (BMI) 19.9 or less, adult. Underwent procedures: Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic. Medications prescribed: Multivitamins; Levothyroxine Sodium; Mirtazapine. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10005348,
+    "hadm_id": 29176490,
+    "note": "M patient aged 76 years admitted for Other and unspecified hyperlipidemia; Long-term (current) use of aspirin; Unspecified essential hypertension. Underwent procedures: Coronary arteriography using two catheters; Procedure on two vessels; Insertion of drug-eluting coronary artery stent(s). Medications prescribed: Multivitamins; Atorvastatin; Citalopram. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other and unspecified hyperlipidemia",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020740,
+    "hadm_id": 29820177,
+    "note": "M patient aged 56 years admitted for Acute pancreatitis; Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled; Long-term (current) use of insulin. Underwent procedures: Replacement of stent (tube) in biliary or pancreatic duct; Diagnostic ultrasound of digestive system; Other endoscopy of small intestine. Medications prescribed: Insulin; Lorazepam; Sarna Lotion. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute pancreatitis",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039708,
+    "hadm_id": 22999601,
+    "note": "F patient aged 46 years admitted for Nicotine dependence, unspecified, uncomplicated; End stage renal disease; Unspecified place or not applicable. Underwent procedures: none listed. Medications prescribed: not available. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Nicotine dependence, unspecified, uncomplicated",
+      "History": "No significant medical history",
+      "Medication": "Not available",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012853,
+    "hadm_id": 20457729,
+    "note": "F patient aged 91 years admitted for Chronic obstructive pulmonary disease, unspecified; Peripheral vascular disease, unspecified; Type 2 diabetes mellitus without complications. Underwent procedures: none listed. Medications prescribed: Multivitamins; amLODIPine; Aspirin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic obstructive pulmonary disease, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10012853,
+    "hadm_id": 26739864,
+    "note": "F patient aged 91 years admitted for Other secondary pulmonary hypertension; Essential (primary) hypertension; Nicotine dependence, cigarettes, uncomplicated. Underwent procedures: none listed. Medications prescribed: Amlodipine; Atorvastatin; Morphine Sulfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other secondary pulmonary hypertension",
+      "History": "Known case of hypertension",
+      "Medication": "Amlodipine",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004457,
+    "hadm_id": 25559382,
+    "note": "M patient aged 65 years admitted for Unspecified asthma, uncomplicated; Personal history of Hodgkin lymphoma; Rash and other nonspecific skin eruption. Underwent procedures: none listed. Medications prescribed: Aspirin; Ramelteon; Clopidogrel. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified asthma, uncomplicated",
+      "History": "Hodgkin lymphoma",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10007795,
+    "hadm_id": 27962747,
+    "note": "F patient aged 53 years admitted for Body Mass Index between 19-24, adult; Passenger of special construction vehicle injured in traffic accident; Tobacco use disorder. Underwent procedures: Enteral infusion of concentrated nutritional substances. Medications prescribed: Insulin; Bag; Glucagon. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Body mass index between 19-24, adult",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10035631,
+    "hadm_id": 29654498,
+    "note": "M patient aged 63 years admitted for Malignant neoplasm of other and unspecified sites of male breast; Bone marrow replaced by transplant; Carcinoma in situ of breast. Underwent procedures: Biopsy of lymphatic structure; Subtotal mastectomy. Medications prescribed: Multivitamins; FoLIC Acid; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Malignant neoplasm of other and unspecified sites of male breast",
+      "History": "No significant medical history",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020306,
+    "hadm_id": 28778757,
+    "note": "F patient aged 74 years admitted for Chronic ischemic heart disease, unspecified; Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits; Malignant neoplasm of central portion of female breast. Underwent procedures: Unilateral simple mastectomy; Excision of axillary lymph node. Medications prescribed: Glucagon; Levothyroxine Sodium; Nitroglycerin SL. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic ischemic heart disease, unspecified",
+      "History": "Transient ischemic attack (tia), and cerebral infarction without residual deficits",
+      "Medication": "Glucagon",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10040025,
+    "hadm_id": 27125816,
+    "note": "F patient aged 64 years admitted for Chronic kidney disease, unspecified; Hyperplasia of renal artery; Unspecified acquired hypothyroidism. Underwent procedures: Intravascular pressure measurement, other specified and unspecified vessels; Arteriography of renal arteries. Medications prescribed: Insulin; Aspirin; Atorvastatin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Chronic kidney disease, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004457,
+    "hadm_id": 21039249,
+    "note": "M patient aged 65 years admitted for Personal history of antineoplastic chemotherapy; Personal history of irradiation, presenting hazards to health; Person boarding or alighting a pedal cycle injured in collision with railway train or railway vehicle. Underwent procedures: Left heart cardiac catheterization; Insertion of one vascular stent; Coronary arteriography using two catheters. Medications prescribed: Clopidogrel; Metoprolol Tartrate; Aluminum-Magnesium Hydrox.-Simethicone. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of antineoplastic chemotherapy",
+      "History": "Antineoplastic chemotherapy",
+      "Medication": "Clopidogrel",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004457,
+    "hadm_id": 21216581,
+    "note": "M patient aged 65 years admitted for Aortocoronary bypass status; Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits; Atrial flutter. Underwent procedures: Cardiac mapping; Excision or destruction of other lesion or tissue of heart, endovascular approach. Medications prescribed: Apixaban; OxycoDONE (Immediate Release) ; Potassium Chloride. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Aortocoronary bypass status",
+      "History": "Transient ischemic attack (tia), and cerebral infarction without residual deficits",
+      "Medication": "Apixaban",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10011398,
+    "hadm_id": 27505812,
+    "note": "M patient aged 67 years admitted for Irritable bowel syndrome; Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS); Personal history of urinary calculi. Underwent procedures: Extracorporeal circulation auxiliary to open heart surgery; Single internal mammary-coronary artery bypass; (Aorto)coronary bypass of four or more coronary arteries. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Irritable bowel syndrome",
+      "History": "Urinary calculi",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10014729,
+    "hadm_id": 28889419,
+    "note": "F patient aged 21 years admitted for Street and highway accidents; Asthma, unspecified type, unspecified; Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure. Underwent procedures: Resection of vessel with replacement, thoracic vessels; Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances; Injection of anesthetic into spinal canal for analgesia. Medications prescribed: Neutra-Phos; Bag; CefazoLIN. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Street and highway accidents",
+      "History": "Known case of diabetes",
+      "Medication": "Neutra-phos",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004235,
+    "hadm_id": 25970245,
+    "note": "M patient aged 47 years admitted for Acute and chronic cholecystitis; Body Mass Index 35.0-35.9, adult; Other specified cardiac dysrhythmias. Underwent procedures: Simple excision of other lymphatic structure; Laparoscopic robotic assisted procedure; Laparoscopic cholecystectomy. Medications prescribed: OxycoDONE (Immediate Release) ; Warfarin; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Acute and chronic cholecystitis",
+      "History": "No significant medical history",
+      "Medication": "Oxycodone (immediate release)",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039831,
+    "hadm_id": 26924951,
+    "note": "F patient aged 57 years admitted for Embolism and thrombosis of other specified artery; Accidental puncture or laceration during a procedure, not elsewhere classified; Accidental cut, puncture, perforation or hemorrhage during surgical operation. Underwent procedures: Repair of blood vessel with tissue patch graft; Regional lymph node excision. Medications prescribed: Insulin; Neutra-Phos; Vial. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Embolism and thrombosis of other specified artery",
+      "History": "Known case of hypertension",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018328,
+    "hadm_id": 23786647,
+    "note": "F patient aged 83 years admitted for Postprocedural heart failure following other surgery; Acute posthemorrhagic anemia; Essential (primary) hypertension. Underwent procedures: Restriction of Left Internal Carotid Artery with Intraluminal Device, Percutaneous Approach; Restriction of Intracranial Artery with Intraluminal Device, Percutaneous Approach. Medications prescribed: Insulin; amLODIPine; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Postprocedural heart failure following other surgery",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10018081,
+    "hadm_id": 28861356,
+    "note": "M patient aged 79 years admitted for Pulmonary collapse; Long-term (current) use of anticoagulants; Disruption of wound, unspecified. Underwent procedures: Arterial catheterization; Closure of stoma of small intestine; Nonexcisional debridement of wound, infection or burn. Medications prescribed: Insulin; Vial; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Pulmonary collapse",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10027602,
+    "hadm_id": 21477991,
+    "note": "F patient aged 71 years admitted for Other diseases of lung, not elsewhere classified; Unspecified essential hypertension; Gastrostomy status. Underwent procedures: Enteral infusion of concentrated nutritional substances; Other excision or destruction of lesion or tissue of brain; Arteriography of cerebral arteries. Medications prescribed: Insulin; Bag; Diazepam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other diseases of lung, not elsewhere classified",
+      "History": "Known case of diabetes",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10020187,
+    "hadm_id": 26842957,
+    "note": "F patient aged 63 years admitted for Presence of right artificial knee joint; Body mass index (BMI) 40.0-44.9, adult; Cerebral aneurysm, nonruptured. Underwent procedures: Restriction of Intracranial Artery with Intraluminal Device, Percutaneous Approach. Medications prescribed: Aspirin; Clopidogrel; Hydrochlorothiazide. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Presence of right artificial knee joint",
+      "History": "Known case of hypertension",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10003046,
+    "hadm_id": 26048429,
+    "note": "M patient aged 64 years admitted for Malignant neoplasm of lower third of esophagus; Esophageal reflux; Barrett's esophagus. Underwent procedures: Other enterostomy; Total esophagectomy; Enteral infusion of concentrated nutritional substances. Medications prescribed: Insulin; Bag; Neutra-Phos. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Malignant neoplasm of lower third of esophagus",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10022017,
+    "hadm_id": 22342963,
+    "note": "M patient aged 59 years admitted for Unspecified atrial fibrillation; Hypotension, unspecified; Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure. Underwent procedures: Performance of Cardiac Output, Continuous; Excision of Left Saphenous Vein, Percutaneous Endoscopic Approach; Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Unspecified atrial fibrillation",
+      "History": "No significant medical history",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10025612,
+    "hadm_id": 23403708,
+    "note": "M patient aged 82 years admitted for Personal history of tobacco use; Personal history of antineoplastic chemotherapy; Malignant neoplasm of main bronchus. Underwent procedures: Open biopsy of lung; Biopsy of lymphatic structure; Radical excision of other lymph nodes. Medications prescribed: Neutra-Phos; Bag; OxycoDONE (Immediate Release) . Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of tobacco use",
+      "History": "Tobacco use",
+      "Medication": "Neutra-phos",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10039997,
+    "hadm_id": 24294180,
+    "note": "F patient aged 67 years admitted for Other and unspecified hyperlipidemia; Obesity, unspecified; Other musculoskeletal symptoms referable to limbs. Underwent procedures: Other computer assisted surgery; Clipping of aneurysm. Medications prescribed: Bag; Aspirin; Magnesium Sulfate. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Other and unspecified hyperlipidemia",
+      "History": "Known case of hypertension",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10023117,
+    "hadm_id": 29839885,
+    "note": "M patient aged 53 years admitted for Congestive heart failure, unspecified; Chronic systolic heart failure; Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure. Underwent procedures: Implantation of cardiac resynchronization defibrillator, total system [CRT-D]. Medications prescribed: Aspirin; Lisinopril; Alprazolam. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Congestive heart failure, unspecified",
+      "History": "No significant medical history",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10038992,
+    "hadm_id": 24745425,
+    "note": "M patient aged 70 years admitted for Thrombocytopenia, unspecified; Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease; Gout, unspecified. Underwent procedures: Performance of Cardiac Output, Continuous; Replacement of Aortic Valve with Zooplastic Tissue, Open Approach. Medications prescribed: Aspirin; Bag; Lidocaine Jelly 2% (Urojet). Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Thrombocytopenia, unspecified",
+      "History": "Known case of diabetes",
+      "Medication": "Aspirin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10008287,
+    "hadm_id": 22168393,
+    "note": "F patient aged 43 years admitted for Epilepsy, unspecified, not intractable, without status epilepticus; Personal history of malignant neoplasm of thyroid; Hemangioma of intracranial structures. Underwent procedures: Excision of Cerebral Ventricle, Open Approach. Medications prescribed: Bag; CeFAZolin; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Epilepsy, unspecified, not intractable, without status epilepticus",
+      "History": "Malignant neoplasm of thyroid",
+      "Medication": "Bag",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10022880,
+    "hadm_id": 27708593,
+    "note": "M patient aged 66 years admitted for Long-term (current) use of anticoagulants; Hip joint replacement; Car passenger injured in collision with van in traffic accident. Underwent procedures: Fusion or refusion of 2-3 vertebrae; Excision of bone for graft, unspecified site; Lumbar and lumbosacral fusion of the posterior column, posterior technique. Medications prescribed: Multivitamins; Aspirin; Vitamin B Complex. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Long-term (current) use of anticoagulants",
+      "History": "Known case of hypertension",
+      "Medication": "Multivitamins",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004457,
+    "hadm_id": 23251352,
+    "note": "M patient aged 65 years admitted for Personal history of tobacco use; Personal history of other lymphatic and hematopoietic neoplasms; Coronary atherosclerosis of native coronary artery. Underwent procedures: (Aorto)coronary bypass of one coronary artery; Open and other replacement of aortic valve with tissue graft; Extracorporeal circulation auxiliary to open heart surgery. Medications prescribed: Insulin; Aspirin; Bag. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of tobacco use",
+      "History": "Tobacco use",
+      "Medication": "Insulin",
+      "Plan": "With advice for follow-up"
+    }
+  },
+  {
+    "subject_id": 10004457,
+    "hadm_id": 28108313,
+    "note": "M patient aged 65 years admitted for Personal history of malignant neoplasm of prostate; Atherosclerotic heart disease of native coronary artery without angina pectoris; Hyperlipidemia, unspecified. Underwent procedures: Extirpation of Matter from Right External Carotid Artery, Open Approach; Supplement Right Common Carotid Artery with Nonautologous Tissue Substitute, Open Approach; Supplement Right External Carotid Artery with Nonautologous Tissue Substitute, Open Approach. Medications prescribed: Albuterol 0.083% Neb Soln; Aspirin; Heparin. Discharged with advice for follow-up.",
+    "summary": {
+      "Complaint": "Personal history of malignant neoplasm of prostate",
+      "History": "Malignant neoplasm of prostate",
+      "Medication": "Albuterol 0",
+      "Plan": "With advice for follow-up"
+    }
+  }
+]
