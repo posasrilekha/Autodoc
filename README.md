@@ -123,6 +123,3 @@ This project is for academic and research purposes.
 * GroqCloud API
 * Open-source AI community
 
-
-
-Just tell 👍
